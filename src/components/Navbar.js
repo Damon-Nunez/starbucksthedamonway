@@ -1,4 +1,6 @@
 import React from 'react';
+import SBLogo from '../images/SBLOGO.webp'
+
 import {
   Nav,
   NavLink,
@@ -14,7 +16,9 @@ const Navbar = () => {
     <>
       <Nav>
         <Bars />
-  
+        <img  className = "NavBarLogo"src= {SBLogo}>
+
+        </img>
         <NavMenu>
           <NavLink to='/home' activeStyle>
             Home

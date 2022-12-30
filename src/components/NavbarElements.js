@@ -7,7 +7,7 @@ export const Nav = styled.nav`
   height: 85px;
   display: flex;
   justify-content: space-between;
-  padding: 0.2rem calc((100vw - 1000px) / 2);
+  padding: 3.2px, 15px;
   z-index: 12;
   /* Third Nav */
   /* justify-content: flex-start; */
@@ -74,6 +74,8 @@ export const NavBtnLink = styled(Link)`
   outline: none;
   border: none;
   cursor: pointer;
+  display:flex;
+  justify-content: flex-end;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
   /* Second Nav */
