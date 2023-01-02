@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
-import BottomFooter from "../components/BottomFooter";
 import { Products } from "../components/products";
 import contents from "../content"
 const Menu = () => {
@@ -18,7 +17,6 @@ const Menu = () => {
                 ))}
             
             <TopFooter/>
-            <BottomFooter/>
         
         </div>
     )

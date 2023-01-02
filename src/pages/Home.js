@@ -1,5 +1,4 @@
 import React from "react";
-import BottomFooter from "../components/BottomFooter";
 import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
 const Home = () => {
@@ -9,7 +8,6 @@ const Home = () => {
             <h1> This is the home screen nigga</h1>
             
             <TopFooter/>
-            <BottomFooter/>
         </div>
     )
 }
