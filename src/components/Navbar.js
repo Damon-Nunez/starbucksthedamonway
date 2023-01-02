@@ -1,68 +1,24 @@
-// import React from 'react';
-// import SBLogo from '../images/SBLOGO.webp'
 
-// import {
-//   Nav,
-//   NavLink,
-//   Bars,
-//   NavMenu,
-//   NavBtn,
-//   NavBtnLink,
-// } from './NavbarElements';
-// //Imported react tools to be used in NavBarElements.js
-  
-// const Navbar = () => {
-//   return (
-//     <>
-//       <Nav>
-//         <Bars />
-//         <img  className = "NavBarLogo"src= {SBLogo}>
-
-//         </img>
-//         <NavMenu>
-//           <NavLink to='/home' activeStyle>
-//             Home
-//           </NavLink>
-//           <NavLink to='/menu' activeStyle>
-//             Menu
-//           </NavLink>
-//           <NavLink to='/rewards' activeStyle>
-//             Rewards
-//           </NavLink>
-//           <NavLink to='/giftcards' activeStyle>
-//             GiftCards
-//           </NavLink>
-//         </NavMenu>
-//         <NavBtn>
-//           <NavBtnLink to='/signin'>Sign In</NavBtnLink>
-//         </NavBtn>
-//         <NavBtn>
-//             <NavBtnLink to= '/login'> Log In</NavBtnLink>
-//         </NavBtn>
-//       </Nav>
-//     </>
-//   );
-// };
-  
-// export default Navbar;
 import React from 'react';
 import './Navbar.css';
 import { FaMapMarkerAlt } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 function Navbar() {
 	return (
 		<div className='header'>
-			<img
+			<Link to ="/"><img
+				
 				className='header__logo'
 				src='https://upload.wikimedia.org/wikipedia/sco/d/d3/Starbucks_Corporation_Logo_2011.svg'
 				alt='starbucksheaderlogo'
-			/>
+			/></Link>
 
 			<div className='header__menu'>
 				<div className='header__left'>
 					<ul className='menu__items menu__left__upper'>
-						<li>menu</li>
-						<li>rewards</li>
-						<li>gift cards</li>
+						<li><Link to="/menu"> Menu</Link></li>
+						<li><Link to="/rewards"> Rewards</Link></li>
+						<li><Link to="/giftcard"> GiftCard</Link></li>
 					</ul>
 				</div>
 
