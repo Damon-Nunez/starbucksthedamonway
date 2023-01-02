@@ -9,10 +9,10 @@ import {
   Navigate,
   Switch,
 } from "react-router-dom";
-import GiftCard from './components/GiftCard';
-import Menu from './components/Menu';
-import Home from './components/Home';
-import Rewards from './components/Rewards';
+import GiftCard from './pages/GiftCard';
+import Menu from './pages/Menu';
+import Home from './pages/Home';
+import Rewards from './pages/Rewards';
 function App() {
   return (
     <Router>
