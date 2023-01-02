@@ -1,0 +1,41 @@
+.productList{
+    display: inline-block;
+    margin-top: 3rem;
+  }
+  
+  .productCard{
+    position: relative;
+    background-color: var(--color-grey-primary);
+    margin: 10px;
+    flex: 1 0 25rem;
+    max-width: 50rem;
+    max-height: 50rem;
+    transition: 0.2s;
+  }
+  
+  .productCard:hover{
+    transform: translateY(-0.5rem);
+    box-shadow: 0.5rem 0.75rem 1.5rem #bbbbbb;
+  }
+  
+  .productImage{
+    margin-top: 2rem;
+    max-width: 150%;
+    max-height: 400px;
+    height: auto;
+    width: 310px;   
+}
+  .productCard__content {
+    margin: 2rem;
+  }
+  
+  .productName{
+    font-size: 1.5rem;
+  }
+  
+  
+  .productPrice{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
