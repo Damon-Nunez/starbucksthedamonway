@@ -13,6 +13,7 @@ const Menu = () => {
         <div>
             <Navbar/>
                 <h1 className= "CoffeeSectionName"> Frappuccinos!</h1>
+                <div className="FrapSection">
             {contents.map(contents => (
                     <Frappuccino 
                         key={contents.id}
@@ -22,9 +23,14 @@ const Menu = () => {
                         link = {contents.link}
                     />
                 ))}
-                <h1 className="CoffeeSectionName"> Lattes!</h1>
+                </div>
                 
+                <h1 className="CoffeeSectionName"> Lattes!</h1>
+                <div className="LatteSection">
+
+                </div>
                <h1 className="CoffeeSectionName"> Macchiato!</h1>
+                <div className="MacchiatoSection">
                {productData.map(productData => (
                     <Macchiato
                     key={productData.id}
@@ -34,6 +40,7 @@ const Menu = () => {
                     link = {productData.link}
                     />
                ))}
+               </div>
             <TopFooter/>
         
         </div>

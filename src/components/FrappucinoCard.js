@@ -13,8 +13,7 @@ export function Frappuccino(props) {
                 <div className='productCard__content'>
                     <h3 className='productName'>{props.name}</h3>
                     <div className='displayStack__1'>
-                        <div className='productPrice'>${props.price}</div>
-                    </div>
+                                            </div>
                     <div className='displayStack__2'>
                         
                     </div>

@@ -17,17 +17,15 @@
   
   .productCard:hover{
     transform: translateY(-0.5rem);
-    box-shadow: 0.5rem 0.75rem 1.5rem #bbbbbb;
+    box-shadow: 0.5rem 0.75rem 1.5rem white;
   }
   
   .productImage{
     margin-top: 2rem;
     max-width: 150%;
     max-height: 400px;
-    height: auto;
-    width: 310px;
-    min-height: fit-content;
-    min-width: fit-content;   
+    border:solid black;
+    
 }
   .productCard__content {
     margin: 2rem;

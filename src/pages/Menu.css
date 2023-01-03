@@ -3,10 +3,18 @@
     display:flex;
     justify-content: center;
     color:white;
-    margin-top: 10px;
-    border:solid;
-    border:1rem solid;
-    border-color: darkgreen;
+    margin: 5px;
+    border: 10px solid;
+    border-color: black;
     background-color: darkgreen;
 
+}
+.FrapSection {
+    background-color: lightgreen;
+}
+.LatteSection {
+    background-color: lightgreen;
+}
+.MacchiatoSection {
+    background-color: lightgreen;
 }
