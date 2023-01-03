@@ -13,6 +13,7 @@ const Menu = () => {
                         image={contents.image}
                         name={contents.name}
                         price={contents.price}
+                        link = {contents.link}
                     />
                 ))}
             

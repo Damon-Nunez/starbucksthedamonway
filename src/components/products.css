@@ -11,6 +11,8 @@
     max-width: 40rem;
     max-height: 50rem;
     transition: 0.2s;
+    min-width: fit-content;
+    min-height: fit-content;
   }
   
   .productCard:hover{
@@ -23,10 +25,15 @@
     max-width: 150%;
     max-height: 400px;
     height: auto;
-    width: 310px;   
+    width: 310px;
+    min-height: fit-content;
+    min-width: fit-content;   
 }
   .productCard__content {
     margin: 2rem;
+    min-width: fit-content;
+    min-height: fit-content;
+    width:fit-content;
   }
   
   .productName{

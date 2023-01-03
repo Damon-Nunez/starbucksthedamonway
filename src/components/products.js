@@ -2,9 +2,9 @@ import "./products.css"
 
 export function Products(props) {
     return(
-        <div className='productList'>
+                    <div className='productList'>
             <div key={props.id} className='productCard'>
-                <img src={props.image} alt='product-img' className='productImage'></img>
+                <a href={props.link}><img src={props.image} alt='product-img' className='productImage'></img></a>
 
                 <div className='productCard__content'>
                     <h3 className='productName'>{props.name}</h3>
@@ -17,5 +17,6 @@ export function Products(props) {
                 </div>
             </div>
         </div>
+        
     )
 }
