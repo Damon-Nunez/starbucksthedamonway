@@ -1,3 +1,5 @@
+//This is the prop value bank, based on the names previously defined in the prop setup file
+// create an object with each object having a name in the prop setup and a value.
 const productData = [
     {
       id: 1,
