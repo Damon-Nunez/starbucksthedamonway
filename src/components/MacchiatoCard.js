@@ -1,10 +1,7 @@
+
 import "./products.css"
-/*
-To make a prop setup you need to have a function that takes in props
-Then make tags and inside them replace the normal value with props.(WhateverNameYouWant) inside of brackets.
-This file is meant to set up prop recievers inside of a function
-*/
-export function Products(props) {
+
+export function Macchiato(props) {
     return(
                     <div className='productList'>
             <div key={props.id} className='productCard'>

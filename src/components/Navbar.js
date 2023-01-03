@@ -24,11 +24,11 @@ function Navbar() {
 
 				<div className='header__right'>
 					<ul className='menu__items menu__items__right '>
-						<li className='findstore'>
+						<a href='https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z'><li className='findstore'>
 							<FaMapMarkerAlt className='marker' /> Find a store
-						</li>
-						<li className='list__butoons '>Sign in</li>
-						<li className='list__butoons join'>Join now</li>
+						</li></a>
+						<li className='list__butoons '><a href='https://www.starbucks.com/account/signin'>Sign in </a></li>
+						<li className='list__butoons join'><a href='https://www.starbucks.com/account/create'>Join now </a></li>
 					</ul>
 				</div>
 			</div>
