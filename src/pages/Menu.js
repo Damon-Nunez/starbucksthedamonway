@@ -6,6 +6,7 @@ import {Macchiato} from "../components/MacchiatoCard";
 import contents from "../FrappucinoMenu"
 import productData from "../components/MacchiatoMenu"
 import "./Menu.css"
+import Carousel from "../components/LatteCarouselParent";
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
 // and getting the values in the prop value bank(contents.whatever)
 const Menu = () => {
@@ -27,7 +28,7 @@ const Menu = () => {
                 
                 <h1 className="CoffeeSectionName"> Lattes!</h1>
                 <div className="LatteSection">
-
+                
                 </div>
                <h1 className="CoffeeSectionName"> Macchiato!</h1>
                 <div className="MacchiatoSection">

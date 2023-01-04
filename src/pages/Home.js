@@ -5,7 +5,9 @@ const Home = () => {
     return (
         <div>
             <Navbar/>
-            <h1> This is the home screen nigga</h1>
+            <div>
+               
+            </div>
             
             <TopFooter/>
         </div>
