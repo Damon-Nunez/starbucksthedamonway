@@ -6,7 +6,7 @@ import {Macchiato} from "../components/MacchiatoCard";
 import contents from "../FrappucinoMenu"
 import productData from "../components/MacchiatoMenu"
 import "./Menu.css"
-import LatteCarousel from "../components/LatteCarousel";
+
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
 // and getting the values in the prop value bank(contents.whatever)
 const Menu = () => {
