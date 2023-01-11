@@ -21,14 +21,18 @@
 .SideMenu {
     border: 5px solid;
     border-color:transparent;
-    width:auto;
     height:auto;
+    width:min-content;
     font-size: 21px;
     margin-bottom:10px;
+    display:grid;
+    padding-left:20px;
 }
 .item {
     color:grey;
     padding: 5px;
+    width:max-content;
+
 }
 .MenuSection{
     color:black;
@@ -36,6 +40,7 @@
     margin-top:10px;
     margin-bottom:10px;
     font-weight: 700!important;
+    width:min-content;
     
 }
 .SectionName {
@@ -45,5 +50,14 @@
     justify-content:space-evenly;
     margin-top:20px;
     font-weight: 700!important;
+}
+.MiniSectionName {
+    color:black;
+    font-size:20px;
+    display:flex;
+    font-weight: 700!important;
+    margin-top:20px;
+    justify-content:center;
+
 
 }
