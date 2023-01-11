@@ -342,3 +342,7 @@
   a {
 font-size:medium
   }
+  .Uber {
+    height:min-content;
+    width: auto;
+  }

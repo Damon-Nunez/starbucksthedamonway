@@ -84,7 +84,7 @@ const Home = () => {
                     <div class="top-bottom-section">
                         <div class="section-container">
                             <div class="image">
-                                <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72045.jpg" />
+                                <img className="Uber" src="https://imgs.search.brave.com/9VY4xZXBaI0uzgzSeKGSSaEXv5BzywfFQMP8yuGDoHc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzA1L3ViZXItZWF0/cy1sb2dvLTAucG5n" />
                             </div>
                             <div class="text">
                                 <h1>Floating into summer like…</h1>
@@ -102,9 +102,7 @@ const Home = () => {
                     <div class="text">
                         <h2>Back to school? You’ve got this!</h2>
                         <h3>Good luck to our partners (employees) going back to school through the Starbucks College Achievement Plan, with 100% tuition coverage at ASU Online.</h3>
-                        <div class="cta">
-                            Learn more
-                        </div>
+                     
                     </div>
                     <div class="image">
                         <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72800.jpg" />

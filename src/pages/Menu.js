@@ -2,19 +2,15 @@ import React from "react";
 import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
 import "./Menu.css"
-
+import { Row, Col, Grid } from 'react-bootstrap';
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
 // and getting the values in the prop value bank(contents.whatever)
 const Menu = () => {
     return (
         <div>
             <Navbar/>
-            <div id="TheSideSection">
             <header className="SectionName"> Drinks</header>
-            <div>
             <h1 className="MiniSectionName"> Hot Coffee</h1>
-            </div>
-            <div>
                <ul className="SideMenu">
                 <h1 className="MenuSection"> Drinks</h1>
                 <li className="item"> Hot Coffees</li>
@@ -41,8 +37,6 @@ const Menu = () => {
                 <li className="item">Water Bottles</li>
                 <li className="item"> Other </li>
                </ul>
-               </div>
-               </div>
                <div>
                 <header className="SectionName"> Foods</header>
                </div>

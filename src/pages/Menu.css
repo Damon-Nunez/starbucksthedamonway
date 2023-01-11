@@ -27,6 +27,7 @@
     margin-bottom:10px;
     display:grid;
     padding-left:20px;
+    position:static;
 }
 .item {
     color:grey;
@@ -40,7 +41,7 @@
     margin-top:10px;
     margin-bottom:10px;
     font-weight: 700!important;
-    width:min-content;
+    width:max-content;
     
 }
 .SectionName {
@@ -58,6 +59,9 @@
     font-weight: 700!important;
     margin-top:20px;
     justify-content:center;
-
-
+}
+.Tester {
+    display:flex;
+    justify-content:flex-end;
+    width:80%;
 }
