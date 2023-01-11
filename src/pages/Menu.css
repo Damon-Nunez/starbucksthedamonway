@@ -54,7 +54,7 @@
 }
 .MiniSectionName {
     color:black;
-    font-size:20px;
+    font-size:30px;
     display:flex;
     font-weight: 700!important;
     margin-top:20px;
@@ -64,4 +64,11 @@
     display:flex;
     justify-content:flex-end;
     width:80%;
+}
+.HCImage {
+   height: 200px;
+   width:200px;
+   border-radius:50%;
+   border:10px solid; 
+   
 }
