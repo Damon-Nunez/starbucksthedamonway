@@ -8,14 +8,6 @@ const Home = () => {
         <div>
             <Navbar/>
                 <div>
-                    {/* <div>
-                <div class="right-nav">
-                    <div class="find-store">
-                        <i class="fas fa-map-marker-alt"></i>
-                        
-                    </div>
-                </div>
-            </div> */}
         <main>
             <div class="main-container">
                 <section class="announcements">

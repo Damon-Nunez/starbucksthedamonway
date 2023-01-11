@@ -18,3 +18,32 @@
 .MacchiatoSection {
     background-color: lightgreen;
 }
+.SideMenu {
+    border: 5px solid;
+    border-color:transparent;
+    width:auto;
+    height:auto;
+    font-size: 21px;
+    margin-bottom:10px;
+}
+.item {
+    color:grey;
+    padding: 5px;
+}
+.MenuSection{
+    color:black;
+    font-size:25px;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-weight: 700!important;
+    
+}
+.SectionName {
+    color:black;
+    font-size:25px;
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:20px;
+    font-weight: 700!important;
+
+}

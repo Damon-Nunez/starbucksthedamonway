@@ -1,10 +1,6 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
-import { Frappuccino } from "../components/FrappucinoCard";
-import {Macchiato} from "../components/MacchiatoCard";
-import contents from "../FrappucinoMenu"
-import productData from "../components/MacchiatoMenu"
 import "./Menu.css"
 
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
@@ -13,35 +9,36 @@ const Menu = () => {
     return (
         <div>
             <Navbar/>
-                <h1 className= "CoffeeSectionName"> Frappuccinos!</h1>
-                <div className="FrapSection">
-            {contents.map(contents => (
-                    <Frappuccino 
-                        key={contents.id}
-                        image={contents.image}
-                        name={contents.name}
-                        price={contents.price}
-                        link = {contents.link}
-                    />
-                ))}
-                </div>
-                
-                <h1 className="CoffeeSectionName"> Lattes!</h1>
-                
-                <div className="LatteSection">
-                  
-                </div>
-               <h1 className="CoffeeSectionName"> Macchiato!</h1>
-                <div className="MacchiatoSection">
-               {productData.map(productData => (
-                    <Macchiato
-                    key={productData.id}
-                    image={productData.image}
-                    name={productData.name}
-                    price={productData.price}
-                    link = {productData.link}
-                    />
-               ))}
+            <div id="TheSideSection">
+            <header className="SectionName"> Drinks</header>
+               <ul className="SideMenu">
+                <h1 className="MenuSection"> Drinks</h1>
+                <li className="item"> Hot Coffees</li>
+                <li className="item"> Hot Teas</li>
+                <li className="item"> Hot Drinks</li>
+                <li className="item"> Frappuccinos</li>
+                <li className="item"> Cold Coffees</li>
+                <li className="item"> Iced Teas</li>
+                <li className="item"> Cold Drinks</li>
+                <h1 className="MenuSection"> Foods</h1>
+                <li className="item"> </li>
+                <li className="item"></li>
+                <li className="item"></li>
+                <li className="item"></li>
+                <li className="item"></li>
+               </ul>
+               </div>
+               <div>
+                <header className="SectionName"> Food</header>
+               </div>
+               <div>
+                <header className="SectionName"> At Home Coffees</header>
+               </div>
+               <div>
+                <header className="SectionName"> Merchandise</header>
+               </div>
+               <div>
+                <header className="SectionName"> Gift Cards</header>
                </div>
             <TopFooter/>
         
