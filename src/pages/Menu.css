@@ -66,9 +66,28 @@
     width:80%;
 }
 .HCImage {
-   height: 200px;
-   width:200px;
+   height: 180px;
+   width:180px;
    border-radius:50%;
    border:10px solid; 
-   
+}
+.box{
+    height: 180px;
+   width:180px;
+   border-radius:50%;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,.1);
+    transition:1s;
+}
+/* .box {
+    display:block;
+    border-radius: 5px;
+} */
+.box:hover {
+    transform: scale(1.2);
+    z-index: 2;
+}
+.caption {
+    font-weight:700!important;
+    color:black;
+    padding-left:30px;
 }
