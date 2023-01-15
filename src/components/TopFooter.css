@@ -2,7 +2,6 @@
 	display: flex;
 	justify-content: flex-start;
 	align-items: flex-start;
-    background-color: darkgreen;
     /* border-top: 0.5px solid gray; */
 	/* margin-left: 50px;
 	margin-right: 50px; */
@@ -31,7 +30,7 @@
     padding: 10px;
     list-style: none;
     cursor: pointer;
-    color: white;
+    color: black;
     overflow-wrap: break-word;
     font-weight: 400;
     /* letter-spacing: 0.1em; */
