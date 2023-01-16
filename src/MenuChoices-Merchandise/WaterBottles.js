@@ -4,10 +4,10 @@ import TopFooter from "../components/TopFooter";
 import "../pages/Menu.css"
 import { Row, Col, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-const Mugs = () => {
+const WaterBottles = () => {
   return (
-    <div>Mugs</div>
+    <div>WaterBottles</div>
   )
 }
 
-export default Mugs
+export default WaterBottles

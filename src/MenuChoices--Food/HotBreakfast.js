@@ -5,7 +5,7 @@ import "../pages/Menu.css"
 import { Row, Col, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
-const Ground = () => {
+const HotBreakfast = () => {
   return (
     <div>
             <Navbar/>
@@ -63,4 +63,4 @@ const Ground = () => {
   )
 }
 
-export default Ground
+export default HotBreakfast
