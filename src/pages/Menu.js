@@ -16,7 +16,7 @@ const Menu = () => {
                     <Col md ="3">
                <ul className="SideMenu">
                 <h1 className="MenuSection"> Drinks</h1>
-                <li className="item"> Hot Coffees</li>
+                <Link to = "/menu"><li className="item"> Hot Coffees</li></Link>
                 <Link to= "/menu/HotTea"><li className="item"> Hot Teas</li></Link>
                 <li className="item"> Hot Drinks</li>
                 <li className="item"> Frappuccinos</li>
