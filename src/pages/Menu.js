@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
 import "./Menu.css"
 import { Row, Col, Container } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
 // and getting the values in the prop value bank(contents.whatever)
 const Menu = () => {
@@ -16,7 +17,7 @@ const Menu = () => {
                <ul className="SideMenu">
                 <h1 className="MenuSection"> Drinks</h1>
                 <li className="item"> Hot Coffees</li>
-                <li className="item"> Hot Teas</li>
+                <Link to= "/menu/HotTea"><li className="item"> Hot Teas</li></Link>
                 <li className="item"> Hot Drinks</li>
                 <li className="item"> Frappuccinos</li>
                 <li className="item"> Cold Coffees</li>
@@ -317,20 +318,171 @@ const Menu = () => {
                             </a>
                             <h1 className="caption"> Ethiopia Yirgacheffe Chelelektu Clover®</h1>
                         </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123700/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/utlBzWmZRSl6zZThYl8XHxTzqZPiKNU4fC_vMQ0Zxe8/rs:fit:225:225:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTmpRd1dEWTBN/QT09L3ovSlRvQUFP/U3dQMlZmSXlzRC8k/XzYyLkpQRz9zZXRf/aWQ9ODgwMDAwNTAw/Nw">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Guatemala Lake Atitlan Clover</h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123698/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/Ep9Lvihy7qnjO3JPIwtCqVctNtiPpcAVcynftqUU0VQ/rs:fit:700:1079:1/g:ce/aHR0cDovL3N0YXRp/YzEuc3F1YXJlc3Bh/Y2UuY29tL3N0YXRp/Yy81NmRhNWYwY2Q1/MWNkNDIyNGUzZmI0/NTgvNTZkYTVmZTlj/MmVhNTFlYWRhYjc2/OTNhLzYxZTA2N2M3/OTVkMjc1MmExOWRi/M2UzYS8xNjQyMDk3/NDA5OTQ4L2Zyb250/K29mK2dhbGFwYWdv/cy5qcGc_Zm9ybWF0/PTE1MDB3">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Galapago La Tortuga Clover</h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123277/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/6kH4pI5hadN_I-MYfDfAFTEHfk9okwfeDBl88tpzHGw/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI1LzBj/L2MyLzI1MGNjMjAx/YTI5N2YzMmQ5NDhj/ZWIyNzE4YzAzYzAy/LnBuZw">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Costa Rica Naranjo  </h1>
+                        </div>
                     </Row>
-                    
-                    
-                    
-                    
+                    <Row>
+                    <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121629/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/9WAZNBgnrgWlAgXkIHZGiKxNXcN54GT9G4YiXWr0Btw/rs:fit:900:900:1/g:ce/aHR0cDovL3Nob3Au/Z291cm1ldGNvZmZl/ZS5jYS9pbWcvcHJv/ZHVjdC8xMTAwMTY0/LVouanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Clover Brewed Pike Place Roast </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121631/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/pnCZggrwvtEalUBcPScPLnOLqI8QfQQHsrHsfKxFbnk/rs:fit:270:270:1/g:ce/aHR0cHM6Ly93d3cu/bG9uZG9uZHJ1Z3Mu/Y29tL2R3L2ltYWdl/L3YyL0FBSklfUFJE/L29uL2RlbWFuZHdh/cmUuc3RhdGljLy0v/U2l0ZXMtbG9uZG9u/ZHJ1Z3MtbWFzdGVy/L2RlZmF1bHQvZHdl/YjdlNzBiNC9wcm9k/dWN0cy9MMDI0MzUz/Mi9sYXJnZS9MMDI0/MzUzMi5KUEc_c3c9/MjcwJnNoPTMzMCZz/bT1maXQ">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Organic Yukon Blend Clover® </h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121635/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/tX-5uJJEM6dPfRYKjGBwsTbb_llAXLVPk2DZnNx0cps/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9jcmF6/eWNvZmZlZWNyYXZl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMi9DQUhf/R2xvYmFsX1ZlcmFu/ZGFCbGVuZF9Hcm91/bmRfQmFnX0Zyb250/XzAtMzAweDMwMC5q/cGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Veranda Blend Clover® </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121633/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/mu7fYOg7rLXzMjiN28swq1DJ-bZnVDoAxfSxoZgcUwI/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly93d3cu/c3RhcmJ1Y2tzLnR0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA1L2RlY2FmX3N1/bWF0cmFfd2JfZnkx/NF91c19nci0xMDI0/eDEwMjQuanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Decaf Sumatra Coffee </h1>
+                        </div>
+                    </Row>
+                    <Row>
+                    <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121636/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/jqgsjY6brAZhWiJ8PVIiYjQmUTtRSIu29t1NjZV0YbY/rs:fit:465:465:1/g:ce/aHR0cHM6Ly80LmJw/LmJsb2dzcG90LmNv/bS8tYUZUWDlFVU9z/bGMvVThITl85RXdn/RUkvQUFBQUFBQUFD/Q0kvUWQ4S3N4NkxJ/MjQvczE2MDAvY2Fm/ZSt2ZXJvbmEuanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Caffe Verona Clover® </h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121748/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/FVuQgJcxKZlKgYKSVxUj24gsYuG3J3vml1_8-NAgUoI/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3dy5h/Y2VkZXBvdC5jb20v/cmVzb3VyY2VzL2Fj/ZWRlcG90L3Byb2R1/Y3QvbGFyZ2UvYjAw/Nnl5c3EyMF83MzY3/ODUuanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Clover Brewed® Decaf Pike Place® Roast </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121582/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/uKa2qW603DpozlPXXaTNd1xb5hBLfk8Rvx8J_30SJbk/rs:fit:630:630:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYWZkYjhi/OWFjZjc4NDY3OWE2/ZGI5ZjIxMGE4Zjgz/YmMuanBnP2ltcG9s/aWN5PTFieTFfd2lk/ZV90b3Bjcm9wXzYz/MA">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Espresso Roast Clover® </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121632/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/B4OXPFm4Z79R_7IzWcKN9UVS0VVmBjPr2liI5LZYkO4/rs:fit:630:630:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvOTM0MWNm/ZDU2Y2QyNDNkNGJj/NTI0ZjQwYjRmOTJh/MGIuanBnP2ltcG9s/aWN5PTFieTFfd2lk/ZV90b3Bjcm9wXzYz/MA">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Decaf Espresso Roast Clover® </h1>
+                        </div>
+                    </Row>
+                    <Row>
+                    <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121587/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/nWM6KUnlgSxu9HbUkjto3GRq-WTis_3iNqJQkA8Xsj0/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYzNkMTli/ZDhiMzM3NGZkNWJl/NzBmNDU5MmY3M2I1/MmMuanBnP2ltcG9s/aWN5PTFieTFfd2lk/ZV82NDA">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Italian Roast Clover® </h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2122377/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/UGTmOcv8Us7pw3ld-b-hQ0cmUdTzK0X6jmsg0l_bWSI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvMTBlNzZh/MjczMjM3NDUwNTk0/NzYyYjNiODhkODBi/NjQuanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Komodo Dragon Clover® </h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121630/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/2JDRBIJOWh4nM4Usw2T1BSS33F5191wSCozVHASCunU/rs:fit:305:363:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYmZlZThm/MjVjMDJiNGMxNTk1/YzIxODY3MmI1ZGU4/YjcuanBn">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Sumatra Clover </h1>
+                        </div>
+                    </Row>
                     <div>
-                    <header className="SectionName"> Foods</header>
-               </div>
-               <div>
-                <header className="SectionName"> At Home Coffees</header>
-               </div>
-               <div>
-                <header className="SectionName"> Merchandise</header>
-               </div>
+                <header className="MiniSectionName"> Coffee Travelers </header>
+                    </div>
+                    <Row>
+                    <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/873068654/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/R9ovUJ9y9yLYPdkGTiPtLzqzA487hC2jhJDG44N05wM/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VtbWl0bWVk/aWEtZGlnaXRhbC5j/b20veXVtbXlwaC9p/bWFnZXMvMjAyMS8w/NC8wOC9zdGFyYnVj/a3MtY29mZmVlLXRy/YXZlbGVyLWtpdC0w/MS5qcGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Coffee Traveler Veranda Blend </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/873068656/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/R9ovUJ9y9yLYPdkGTiPtLzqzA487hC2jhJDG44N05wM/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VtbWl0bWVk/aWEtZGlnaXRhbC5j/b20veXVtbXlwaC9p/bWFnZXMvMjAyMS8w/NC8wOC9zdGFyYnVj/a3MtY29mZmVlLXRy/YXZlbGVyLWtpdC0w/MS5qcGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Coffee Traveler Dark Roast </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/873068655/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/R9ovUJ9y9yLYPdkGTiPtLzqzA487hC2jhJDG44N05wM/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VtbWl0bWVk/aWEtZGlnaXRhbC5j/b20veXVtbXlwaC9p/bWFnZXMvMjAyMS8w/NC8wOC9zdGFyYnVj/a3MtY29mZmVlLXRy/YXZlbGVyLWtpdC0w/MS5qcGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Coffee Traveler Pike Place Roast </h1>
+                        </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/873068657/hot">
+                                <img className="HCImage" src="https://imgs.search.brave.com/R9ovUJ9y9yLYPdkGTiPtLzqzA487hC2jhJDG44N05wM/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VtbWl0bWVk/aWEtZGlnaXRhbC5j/b20veXVtbXlwaC9p/bWFnZXMvMjAyMS8w/NC8wOC9zdGFyYnVj/a3MtY29mZmVlLXRy/YXZlbGVyLWtpdC0w/MS5qcGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Coffee Traveler Decaf Pike Place Roast </h1>
+                        </div>
+
+                    </Row>
                 </Col>
                </Row>
                </Container>
