@@ -45,7 +45,7 @@ function App() {
       <Route exact path='/menu/HotTea' element = {<HotTea/>}/>
       <Route exact path='/menu/IcedTeas' element = {<IcedTeas/>}/>
       <Route exact path='/menu/HotDrinks' element = {<HotDrinks/>}/>
-      <Route exact path='/menu/Frappucinos' element = {<Frappuccinos/>}/>
+      <Route exact path='/menu/Frappuccinos' element = {<Frappuccinos/>}/>
       <Route exact path='/menu/ColdDrinks' element = {<ColdDrinks/>}/>
       <Route exact path='/menu/ColdCoffees' element = {<ColdCoffees/>}/>
       //Food Section
