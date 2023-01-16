@@ -1,10 +1,10 @@
 import React from "react";
-import "./Menu.css"
+import "../pages/Menu.css"
 import { Row, Col, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
-export const HotTea = () => {
+ const HotTea = () => {
     return (
         <div>
             <Navbar/>
@@ -64,3 +64,4 @@ export const HotTea = () => {
 
     )
 }
+export default HotTea;

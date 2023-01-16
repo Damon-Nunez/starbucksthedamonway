@@ -13,7 +13,7 @@ import GiftCard from './pages/GiftCard';
 import Menu from './pages/Menu';
 import Home from './pages/Home';
 import Rewards from './pages/Rewards';
-import { HotTea } from './pages/HotTea';
+import HotTea from './MenuChoices-Coffee/HotTea'
 function App() {
   return (
     <Router>
