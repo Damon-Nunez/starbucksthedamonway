@@ -45,13 +45,23 @@ const WaterBottles = () => {
                 </div>
                <Row>
                <div className="box">
-                            <a href="">
-                                <img className="HCImage" src="">
+                            <a href="https://www.starbucks.com/menu/product/2123712/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/O0SRwIdm0nMMkDB2bNSrraxSogyF7d6Yybcz5GsW9pI/rs:fit:267:300:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzMxbUJ1V0NQYTFM/Ll9TWTMwMF9RTDcw/Xy5qcGc">
 
                                 </img>
                             </a>
-                            <h1 className="caption"> </h1>
+                            <h1 className="caption"> Stainless-Steel Water Bottle - 20 fl oz </h1>
                         </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123707/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/3BZa7b-iyzFBbru05Gv_xqMkrDlqNZwLNZlC4zoVtrw/rs:fit:638:638:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2E5LzA5/L2U2L2E5MDllNjY2/Y2JhNTJiMWU4Mjg3/MTY0Y2I5ODg3MzI0/LmpwZw">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Siren Soft Touch Plastic Water Bottle - 24 fl oz </h1>
+                        </div>
+
                </Row>
                </Col>
                 </Row>
