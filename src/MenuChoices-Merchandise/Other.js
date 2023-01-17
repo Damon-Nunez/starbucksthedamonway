@@ -45,13 +45,30 @@ const Other = () => {
                 </div>
                <Row>
                <div className="box">
-                            <a href="">
-                                <img className="HCImage" src="">
+                            <a href="https://www.starbucks.com/menu/product/2123710/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/oMj6b1EbC-Kc0AGKD5p2S0-xExIlP3A91qLVChwr0Fw/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9tZWRp/YS5rYXJvdXNlbGwu/Y29tL21lZGlhL3Bo/b3Rvcy9wcm9kdWN0/cy8yMDE2LzA3LzI1/L3N0YXJidWNrc19i/b2R1bV9mcmVuY2hf/cHJlc3NfMTQ2OTQz/ODIxNl80MDNiZmZk/Yy5qcGc">
 
                                 </img>
                             </a>
-                            <h1 className="caption"> </h1>
+                            <h1 className="caption"> French Press </h1>
                         </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123718/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/lA0MyeLC2m8r7J50A3Vg0aqIPldNWcGjoYD9O-omQEI/rs:fit:638:638:1/g:ce/aHR0cDovL2V6c2hv/cGV4LmNvbS9tZWRp/YS9jYXRhbG9nL3By/b2R1Y3QvY2FjaGUv/MS9zbWFsbF9pbWFn/ZS85ZGY3OGVhYjMz/NTI1ZDA4ZDZlNWZi/OGQyNzEzNmU5NS9z/L3Qvc3RhcmJ1Y2tz/X3BvdXItb3Zlcl9p/Y2VkX2NvZmZlZV9i/cmV3ZXJfMS5qcGc">
+
+                                </img>
+                            </a>
+                            <h1 className="caption">Pour Over  </h1>
+                        </div>
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2121746/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/0nvuijDSLBx0A88swAwsweuZpygoY1c3dFGiUFNge7w/rs:fit:680:680:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y2L2Yx/LzQ0L2Y2ZjE0NDY1/MmU2N2ZjOTc2NTdm/MmYyMzIwMjM3MWM4/LmpwZw">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Small Shopping Bag </h1>
+                        </div>
+
                </Row>
                </Col>
                 </Row>
