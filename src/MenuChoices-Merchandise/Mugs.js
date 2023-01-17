@@ -45,13 +45,23 @@ const Mugs = () => {
                 </div>
                <Row>
                <div className="box">
-                            <a href="">
-                                <img className="HCImage" src="">
+                            <a href="https://www.starbucks.com/menu/product/2123706/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/2On4hVTYFlxaKi0sY78sYdJgOdy-yQRui2V1nx9xMJk/rs:fit:225:300:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nLzh3Y0FB/T1N3dH54ZlBvV3Uv/cy1sMzAwLmpwZw">
 
                                 </img>
                             </a>
-                            <h1 className="caption"> </h1>
+                            <h1 className="caption">Pleat Desktop Ceramic Mug - 14 fl oz </h1>
                         </div>
+
+                        <div className="box">
+                            <a href="https://www.starbucks.com/menu/product/2123713/single">
+                                <img className="HCImage" src="https://imgs.search.brave.com/BCe8LEAjgsteEW1XKUAJKvgTNQ07H6z4tZnWpptSTVc/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYm9uYW56YXN0/YXRpYy5jb20vYWZ1/L2ltYWdlcy8xODMz/LzQzOTQvOTUvSU1H/XzMwMTFfMV8uSlBH">
+
+                                </img>
+                            </a>
+                            <h1 className="caption"> Glass Mug 16 fl.oz </h1>
+                        </div>
+
                </Row>
                </Col>
                 </Row>
