@@ -41,7 +41,7 @@ const WholeBean = () => {
                </Col>
                <Col md = "9">
                 <div>
-                    <header className="MiniSectionName"> Hot Tea</header>
+                    <header className="MiniSectionName"> Whole Bean</header>
                 </div>
                <Row>
                <div className="box">

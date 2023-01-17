@@ -41,7 +41,7 @@ const VIAInstant = () => {
                </Col>
                <Col md = "9">
                 <div>
-                    <header className="MiniSectionName"> Hot Tea</header>
+                    <header className="MiniSectionName"> VIAInstant</header>
                 </div>
                <Row>
                <div className="box">

@@ -42,7 +42,7 @@ const Ground = () => {
                </Col>
                <Col md = "9">
                 <div>
-                    <header className="MiniSectionName"> Hot Tea</header>
+                    <header className="MiniSectionName"> Ground </header>
                 </div>
                <Row>
                <div className="box">

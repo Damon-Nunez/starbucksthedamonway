@@ -42,7 +42,7 @@ export const ColdDrinks = () => {
                </Col>
                <Col md = "9">
                 <div>
-                    <header className="MiniSectionName"> Hot Tea</header>
+                    <header className="MiniSectionName"> Cold Drinks</header>
                 </div>
                <Row>
                <div className="box">
