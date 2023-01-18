@@ -42,7 +42,7 @@ const HotBreakfast = () => {
                </Col>
                <Col md = "9">
                 <div>
-                    <header className="MiniSectionName"> Hot Breakfast</header>
+                    <header className="SectionName"> Hot Breakfast</header>
                 </div>
                <Row>
                <div className="box">
