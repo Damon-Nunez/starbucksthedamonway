@@ -7,6 +7,8 @@
 	padding-left: 2.4rem;
 	padding-right: 2.4rem;
 	box-shadow: 0 4px 4px -4px gray;
+	height:130px;
+	
 	
 }
 
@@ -94,3 +96,17 @@
 .findstore {
 	margin-right: 30px;
 }
+.hamburger {
+    display: none;
+}
+
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #101010;
+}
+

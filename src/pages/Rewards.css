@@ -1,0 +1,181 @@
+.RewardsHeader {
+    background-color: rgb(30,57,50);
+    color:white;
+    font-weight:700!important;
+    font-size: 20px;
+    height:60px;
+    padding-top:15px;
+    padding-left:140px;
+    display:static;
+    justify-content:space-between
+}
+.FreeCoffeeSection {
+    background-color: rgb(212,232,227);
+    width:auto;
+    height: 700px;
+}
+.CoffeeHeader {
+    display: flex;
+    justify-content: flex-start;
+    font-weight:600!important;
+    font-size: 2.7rem!important;
+    padding-left:80px;
+}
+.CoffeeJoin {
+    display: flex;
+    justify-content: flex-start;
+    font-weight:600!important;
+    font-size:1.5rem!important;
+    padding-left: 80px;
+    padding-top:20px;
+    padding-bottom:20px;
+    
+}
+.JoinButton {
+    position: relative;
+    right: -80px;
+    background: none;
+    border-radius: 50px;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    background-color: #00754a;
+    border-color: #00754a;
+    color: #fff
+}
+.JoinButton:hover {
+    z-index:2;
+    transform:scale(1.2)
+}
+.CoffeeHeaderP {
+    font-size: 1.6rem!important;
+    display:flex;
+    justify-content: flex-start;
+    padding-left: 80px;
+    padding-top:20px;
+}
+.JoiningLink {
+    font-size: 1.6rem!important;
+}
+
+.LightBlueSection {
+    padding-top: 230px;
+}
+.RewardRow {
+    padding:0px;
+}
+.Logo {
+    height:auto;
+    width:auto;
+    display:block;
+}
+.SecondSectionHeader h1 {
+        display:flex;
+        justify-content:center;
+        font-size:2.1rem!important;
+        font-weight:600!important;
+        border-bottom:2px solid;
+    border-color:lightgray;
+}
+.SecondSectionHeader p {
+    display:flex;
+    justify-content: center;
+    font-size:1.6rem!important;
+    font-weight: 300!important;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.InfoCard {
+     height:auto;
+     width: 300px;
+     max-height: 300px;
+     max-width: 300px;
+     padding-left:50px;
+    font-size:1.2rem!important;
+    font-weight:700px;
+    margin: 0 10vw;
+}
+.LinkWords {
+    font-size:1.2rem!important;
+    color:lightgreen;
+}
+.InfoCard h1 {
+    font-size:1.6rem!important;
+        font-weight:600!important;
+}
+.ThirdSectionHeader h1 {
+    display:flex;
+    justify-content:center;
+    font-size:2.1rem!important;
+    font-weight:600!important;
+    border-bottom:2px solid;
+    border-color:lightgray;
+}
+.ThirdSectionHeader p {
+    display:flex;
+    justify-content: center;
+    font-size:1.3rem!important;
+    font-weight: 300!important;
+    padding-top:25px;
+    
+}
+.InfoCardTwo {
+    height:auto;
+    width: 300px;
+    max-height: 600px;
+    max-width: 300px;
+    padding-left:50px;
+   font-size:1.2rem!important;
+   font-weight:700px;
+   margin: 0 10vw;
+}
+.InfoCardTwo h1 {
+    font-size:1.6rem!important;
+        font-weight:600!important;
+}
+.RewardRowThree {
+    height:auto;
+}
+.InfoCardTwo img {
+    height:200px;
+    width:200px;
+}
+.InfoCardTwo h2 {
+    padding-left:20px;
+    padding-top:10px;
+    color:lightgreen;
+    align-items: center;
+}
+.FourthSectionHeader h1 {
+    display:flex;
+    justify-content:center;
+    font-size:2.1rem!important;
+    font-weight:600!important;
+    border-bottom:2px solid;
+    border-color:lightgray;
+}
+.FourthSectionHeader p {
+    display:flex;
+    justify-content: center;
+    font-size:1.3rem!important;
+    font-weight: 300!important;
+    padding-top:25px;
+    
+}
+.PurpleZone {
+    background-color: rgb(243,240,234);
+}
+.SideInfo h1 {
+    font-weight:600!important;
+    font-size:1.8rem!important;
+}
+.SideInfo h2 {
+    font-size:1.4rem!important;
+    font-weight:400!important;
+}
