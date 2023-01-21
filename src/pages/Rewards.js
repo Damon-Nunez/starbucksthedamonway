@@ -101,7 +101,7 @@ const Rewards = () => {
                         </Col>
                         </Row>
                         <Row className="RewardRowFive">
-                        <Col sm ={12} md={12} lg={3}>
+                        <Col sm ={12} md={12} lg={4}>
                             <div className="SideInfo">
                                 <h1> 1★Star per dollar </h1>
                                 <h2> Pay as you go </h2>
@@ -109,21 +109,48 @@ const Rewards = () => {
                         </Col>
                         <Col sm={12} md={12} lg={4}>
                             <div className="scanAndPay">
-                            <img src=""/>
+                            <img src="https://www.starbucks.com/weblx/images/rewards/ways-to-pay/1A.png"/>
                             <h1>Scan and Pay Seperately </h1>
                             <h2>Use cash or credit/debit card at the register.</h2>
                         </div>
                         </Col>
                         <Col sm={12} md={12} lg={4}>
                             <div className="savePayment">
-                            <img src=""/>
+                            <img src="https://www.starbucks.com/weblx/images/rewards/ways-to-pay/1B.png"/>
                             <h1> Save payment in the app</h1>
                             <h2>Check-out faster by saving a credit/debit card or PayPal to your account. You’ll be able to order ahead or scan and pay at the register in one step.</h2>
                         </div>
                         </Col>
                     </Row>
+                    <Row className="RewardFifthRow">
+                        <Col sm={12} md={12} lg={4}>
+                        <div className="SideInfo">
+                            <h1> 2★Stars per dollar </h1>
+                            <h2> Add funds in the app </h2>
+                        </div>
+                        </Col>
+                        <Col sm={12} md={12} lg={4}>
+                            <div className="Preload">
+                                <img src="https://www.starbucks.com/weblx/images/rewards/ways-to-pay/2A.png"/>
+                                <h1> Preload </h1>
+                                <p> To save time and earn Stars twice as fast, add money to your digital Starbucks Card using any payment option. Scan and pay in one step or order ahead in the app.</p>
+                                
+                            </div>
+                        </Col>
+                        <Col sm={12} md={12} lg={4}>
+                            <div className="register">
+                            <img src="https://www.starbucks.com/weblx/images/rewards/ways-to-pay/2B.png"/>
+                            <h1>Register your gift card</h1>
+                            <p>Then use it to pay through the app. You can even consolidate balances from multiple cards in one place.</p>
+                            </div>
+                        </Col>
+                    </Row>
                     </div>
-                  
+                    <Row className="RewardSixthRow">
+                        <Col sm={12} md={12} lg={12}>
+                        <h1></h1>
+                        </Col>
+                    </Row>
                
             <TopFooter/>
         </div>

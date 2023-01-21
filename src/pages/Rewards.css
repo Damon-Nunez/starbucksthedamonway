@@ -178,4 +178,60 @@
 .SideInfo h2 {
     font-size:1.4rem!important;
     font-weight:400!important;
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+.scanAndPay h1 {
+    font-size:1.8rem!important;
+    font-weight:600!important;
+}
+.scanAndPay h2 {
+    font-size:20px;
+    padding-top:30px;
+    padding-bottom: 20px;
+}
+.scanAndPay img {
+    width:130px;
+    display:flex;
+    justify-content: center;
+    
+}
+.savePayment h1 {
+    font-size:1.8rem!important;
+    font-weight:600!important;
+}
+.savePayment h2 {
+    font-size:20px;
+    padding-top:30px;
+    font-weight:1.3rem!important;
+    padding-bottom: 20px;
+}
+.savePayment img {
+    width:130px;
+}
+.Preload h1{
+    font-size:1.8rem!important;
+    font-weight: 600!important;
+}
+.Preload p {
+    font-size:20px;
+    padding-top:30px;
+    font-weight:1.3rem!important;
+    padding-bottom: 20px;
+}
+.Preload img {
+    width:130px;
+}
+.register h1 {
+    font-size:1.8rem!important;
+    font-weight: 600!important;
+}
+.register p {
+    font-size: 20px;
+    padding-top:30px;
+    font-weight: 1.3rem!important;
+    padding-bottom: 20px;
+}
+.register img {
+    width:130px;
 }
