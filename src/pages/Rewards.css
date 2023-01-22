@@ -6,7 +6,7 @@
     height:60px;
     padding-top:15px;
     padding-left:140px;
-    display:static;
+    display:sticky;
     justify-content:space-between
 }
 .FreeCoffeeSection {
@@ -234,4 +234,39 @@
 }
 .register img {
     width:130px;
+}
+.StarCodeField  h1{
+    display:flex;
+    justify-content: space-around;
+    font-size: 2.6rem!important;
+    font-weight:600!important;
+    padding-bottom:60px;
+}
+.StarCodeField input {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 0 2px rgb(0 0 0 / 40%);
+    display: flex;
+    justify-content: center;
+    padding: 18px 100px;
+    margin:auto;
+    font-size: 20px;
+    transition: border .2s linear .2s;
+}
+.StarCodeField button {
+    display: flex;
+    margin:auto;
+    margin-top:20px;
+    padding: 6px 40px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 0 2px rgb(0 0 0 / 40%);
+    font-size: 1.3rem!important;
+    font-weight:600!important;
+    transition: border .2s linear .2s;
+    transition: 0.3s;
+}
+.StarCodeField button:hover {
+    z-index:2;
+    transform:scale(1.2)
 }

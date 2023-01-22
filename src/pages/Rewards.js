@@ -5,6 +5,17 @@ import { Row, Col, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import "./Rewards.css"
 
+let pattern = /^[A-Z]+$/;
+function validate() {
+let input = document.getElementById("myInput").value
+if(!input.match(pattern)) {
+    alert("Wrong")
+    
+} else {
+   alert("Correct")
+}
+}
+
 const Rewards = () => {
     return (
         <div>
@@ -148,7 +159,11 @@ const Rewards = () => {
                     </div>
                     <Row className="RewardSixthRow">
                         <Col sm={12} md={12} lg={12}>
-                        <h1></h1>
+                            <div className="StarCodeField">
+                        <h1>Star Codes 🌟</h1>
+                        <input type="text" placeholder="Enter your Star Code!" id="myInput"></input>
+                        <button onClick={validate}> Submit </button>
+                        </div>
                         </Col>
                     </Row>
                
