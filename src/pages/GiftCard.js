@@ -6,6 +6,9 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import './GiftCard.css'
 import BasicCard from "./BasicCard"
+import { Row,Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
+
 
 function SampleNextArrow(props) {
     const { className, style, onClick } = props;
@@ -38,7 +41,7 @@ const GiftCard = () => {
 
     const settings = {
       dots: true,
-      infinite: true,
+      infinite: false,
       arrows: true,
       speed: 500,
       slidesToShow: 4,
@@ -85,9 +88,9 @@ const GiftCard = () => {
     return (
         <div>
             <Navbar/>
-            <div className="CarouselOne">
+            <div>
                 <h1 className="CarouselName"> Featured </h1>
-      <Slider className="Carousel"ref={slider} {...settings}>
+      <Slider ref={slider} {...settings}>
         {products?.map((item, index) => {
           return <BasicCard item={item} />;
         })}
@@ -102,13 +105,38 @@ const GiftCard = () => {
         </button>
       </div>
     </div>
-
-  
+         <Row className="giftCard">
+          <Col sm={12} md={12} lg={12}>
+            <div className="giftCardDiv">
+            <h1> Got a gift card?</h1>
+            <p> Earns 2★Stars per $1 </p>
+            <button className="giftCardBtnOne"><Link to= "https://app.starbucks.com/account/cards"> Add or reload </Link></button>
+            <button className="giftCardBtnTwo">Check Balance</button>
+            <a className="LinkWordTerms" href="https://www.starbucks.com/terms/manage-gift-cards/"><h2> Card Terms & Conditions </h2></a>
+            </div>
+          </Col>
+        </Row> 
+         <div>
+                <h1 className="CarouselName"> Lunar New Year </h1>
+                <Slider ref={slider} {...settings}>
+             {LunarNewYear?.map((item, index) => {
+          return <BasicCard item={item} />;
+        })}
+      </Slider>
+        </div> 
+          
             <TopFooter/>
             
         </div>
     )
 }
+const LunarNewYear = [
+  {
+    id: 1,
+      image: "https://globalassets.starbucks.com/assets/09867b98e0814ce798f653f095889b1f.jpg",
+      link: "https://www.starbucks.com/gift/873070673",
+  }
+];
 
 const products = [
     {

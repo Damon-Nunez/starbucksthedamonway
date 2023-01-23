@@ -7,7 +7,7 @@ function BasicCard({ item }) {
         width: 350,
         height: 240,
         borderColor:"transparent",
-        padding:"10px",
+        padding:"17px",
       }}
     >
       <Card.Link href={item?.link}>
