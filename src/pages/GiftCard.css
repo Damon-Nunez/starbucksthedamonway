@@ -1,0 +1,64 @@
+.slick-slider {
+    /* background-color: aquamarine; */
+    padding-left: 20px;
+  }
+  .slick-slide img {
+    display: block;
+    border-radius: 25px;
+}
+  .slick-prev {
+    z-index: 1;
+    /* background-color: red !important; */
+  }
+  .slick-next {
+    z-index: 1;
+    /* background-color: red !important; */
+  }
+  
+  .slick-dots li button:before {
+    color: rgb(179, 178, 178) !important;
+    font-size: 10px !important;
+    margin-top: 10px;
+  }
+
+  .slick-dots li.slick-active button:before {
+    color: green!important;
+    /* font-size: 12px !important; */
+  }
+  .CarouselName {
+    padding-left:120px;
+    padding-top:50px;
+    padding-bottom: 50px;
+    font-size:1.4rem!important;
+    font-weight: 700!important;
+    letter-spacing: .1em!important;
+    text-transform: uppercase!important;
+  }
+  .ButtonNext{
+    display:flex;
+    margin:auto;
+    border-radius: 12px;
+    box-shadow: 0 0 0 2px rgb(0 0 0 / 40%);
+    font-size: 1.3rem!important;
+    font-weight:600!important;
+    transition: border .2s linear .2s;
+    transition: 0.3s;
+    padding: 6px 40px;
+    margin-top:20px;
+  }
+  .ButtonPrev {
+    display:flex;
+    margin:auto;
+    padding: 6px 40px; 
+   border-radius: 12px;
+    box-shadow: 0 0 0 2px rgb(0 0 0 / 40%);
+    font-size: 1.3rem!important;
+    font-weight:600!important;
+    transition: border .2s linear .2s;
+    transition: 0.3s;
+    margin-top:20px;
+  }
+  .Button {
+    display:flex;
+    margin:auto;
+  }
