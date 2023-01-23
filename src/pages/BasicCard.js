@@ -4,14 +4,15 @@ function BasicCard({ item }) {
   return (
     <Card
       style={{
-        width: 300,
-        height: 190,
-        color: "rgba(255, 255, 255, 0.5)",
-        boxShadow: "0px 12px 17px rgb(0 0 0 / 30%)",
-        borderRadius: "25px",
+        width: 350,
+        height: 240,
+        borderColor:"transparent",
+        padding:"10px",
       }}
     >
+      <Card.Link href={item?.link}>
       <Card.Img variant="top" src={item?.image} />
+      </Card.Link>
     </Card>
   );
 }

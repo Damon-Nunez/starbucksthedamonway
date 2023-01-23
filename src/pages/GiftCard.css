@@ -5,6 +5,15 @@
   .slick-slide img {
     display: block;
     border-radius: 25px;
+    position:relative;
+    transition:0.5s;
+    height:210px;
+    width:350px;
+    box-shadow: 0px 12px 17px rgb(0 0 0 / 30%);
+}
+.slick-slide img:hover {
+      z-index:2;
+      transform: scale(1.1);
 }
   .slick-prev {
     z-index: 1;
