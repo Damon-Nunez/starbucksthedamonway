@@ -1,31 +1,35 @@
-
 import React from "react";
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import '../pages/GiftCard.css'
 import BasicCard from "../pages/BasicCard";
-
-const workplace = [
+   
+const anytime = [
     {
         id:1,
-        image:"https://globalassets.starbucks.com/assets/030cdc65712a4cb3b9a58483de6799b3.jpg",
-        link:"https://www.starbucks.com/gift/873070522",
+        image:"https://globalassets.starbucks.com/assets/a224b9727cb44ea4822b459d3faa0ced.jpg",
+        link:"https://www.starbucks.com/gift/873070621",
     },
     {
         id:2,
-        image:"https://globalassets.starbucks.com/assets/c4176b3e9fe34b5087040869f703ab48.jpg",
-        link:"https://www.starbucks.com/gift/873070533",
+        image:"https://globalassets.starbucks.com/assets/d2346fc58ecb4ce39534452c5c527c11.jpg",
+        link:"https://www.starbucks.com/gift/873070351",
     },
     {
         id:3,
-        image:"https://globalassets.starbucks.com/assets/974d46ec17774cb1bafa313d1db92bbf.jpg",
-        link:"https://www.starbucks.com/gift/873070299",
+        image:"https://globalassets.starbucks.com/assets/bb5003220b16472c8efd7c1968edb836.jpg",
+        link:"https://www.starbucks.com/gift/873070057",
     },
     {
         id:4,
-        image:"https://globalassets.starbucks.com/assets/1c47ac4f6e914144b8d6a2e3489f316e.jpg",
-        link:"https://www.starbucks.com/gift/873070293",
+        image:"https://globalassets.starbucks.com/assets/36387ff112534ff7b5fb1f663ec2324e.jpg",
+        link:"https://www.starbucks.com/gift/873070611",
+    },
+    {
+        id:5,
+        image:"https://globalassets.starbucks.com/assets/92a2acfde0d74350bae518afe9928fea.jpg",
+        link:"https://www.starbucks.com/gift/873070677",
     },
 ]
 
@@ -54,7 +58,7 @@ function SampleNextArrow(props) {
     );
   }
   
-  const WorkplaceCarousel = () => {
+  const AnytimeCarousel = () => {
   
     const slider = React.useRef(null);
   
@@ -107,9 +111,9 @@ function SampleNextArrow(props) {
     return (
         <div>
             <div className="CarouselOne">
-                <h1 className="CarouselName"> Workplace </h1>
+                <h1 className="CarouselName"> Anytime </h1>
       <Slider className="Carousel"ref={slider} {...settings}>
-        {workplace?.map((item, index) => {
+        {anytime?.map((item, index) => {
           return <BasicCard item={item} />;
         })}
       </Slider>
@@ -128,4 +132,4 @@ function SampleNextArrow(props) {
     )
   }
   
-  export default WorkplaceCarousel;
+  export default AnytimeCarousel;

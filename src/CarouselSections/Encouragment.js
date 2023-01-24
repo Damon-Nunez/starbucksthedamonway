@@ -1,4 +1,3 @@
-
 import React from "react";
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
@@ -6,26 +5,26 @@ import 'slick-carousel/slick/slick-theme.css';
 import '../pages/GiftCard.css'
 import BasicCard from "../pages/BasicCard";
 
-const workplace = [
+const encouragment = [
     {
         id:1,
-        image:"https://globalassets.starbucks.com/assets/030cdc65712a4cb3b9a58483de6799b3.jpg",
-        link:"https://www.starbucks.com/gift/873070522",
+        image:"https://globalassets.starbucks.com/assets/27ade48b639f44a59ed702914a194454.jpg",
+        link:"https://www.starbucks.com/gift/873070504",
     },
     {
         id:2,
-        image:"https://globalassets.starbucks.com/assets/c4176b3e9fe34b5087040869f703ab48.jpg",
-        link:"https://www.starbucks.com/gift/873070533",
+        image:"https://globalassets.starbucks.com/assets/0f7b291e505e45d29fde0c4d7b732140.jpg",
+        link:"https://www.starbucks.com/gift/873070507",
     },
     {
         id:3,
-        image:"https://globalassets.starbucks.com/assets/974d46ec17774cb1bafa313d1db92bbf.jpg",
-        link:"https://www.starbucks.com/gift/873070299",
+        image:"https://globalassets.starbucks.com/assets/c58f11e8197f4b608a1d7a751779fca3.jpg",
+        link:"https://www.starbucks.com/gift/873070390",
     },
     {
         id:4,
-        image:"https://globalassets.starbucks.com/assets/1c47ac4f6e914144b8d6a2e3489f316e.jpg",
-        link:"https://www.starbucks.com/gift/873070293",
+        image:"https://globalassets.starbucks.com/assets/ff23ba2daa464e579e528cbd04749e24.jpg",
+        link:"https://www.starbucks.com/gift/873070277",
     },
 ]
 
@@ -54,7 +53,7 @@ function SampleNextArrow(props) {
     );
   }
   
-  const WorkplaceCarousel = () => {
+  const EncouragmentCarousel = () => {
   
     const slider = React.useRef(null);
   
@@ -107,9 +106,9 @@ function SampleNextArrow(props) {
     return (
         <div>
             <div className="CarouselOne">
-                <h1 className="CarouselName"> Workplace </h1>
+                <h1 className="CarouselName"> Encouragment </h1>
       <Slider className="Carousel"ref={slider} {...settings}>
-        {workplace?.map((item, index) => {
+        {encouragment?.map((item, index) => {
           return <BasicCard item={item} />;
         })}
       </Slider>
@@ -128,4 +127,4 @@ function SampleNextArrow(props) {
     )
   }
   
-  export default WorkplaceCarousel;
+  export default EncouragmentCarousel
