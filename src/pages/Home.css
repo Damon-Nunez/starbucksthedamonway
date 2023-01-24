@@ -346,3 +346,11 @@ font-size:medium
     height:min-content;
     width: auto;
   }
+  #ResponsiveEdit {
+    font-size:large;
+  }
+  .responsive {
+    max-width: 100%;
+    height: auto;   
+    min-width: 50%;
+  }

@@ -29,7 +29,9 @@
     color: rgb(179, 178, 178) !important;
     font-size: 10px !important;
     margin-top: 10px;
+    bottom:0px;
   }
+  
 
   .slick-dots li.slick-active button:before {
     color: green!important;
@@ -179,7 +181,7 @@
 }
 .GiftCardSupportRow {
   background-color: rgb(237,234,232);
-  height:300px;
+  height:360px;
 }
 .GiftCardSupport h2 {
   letter-spacing: .1em!important;

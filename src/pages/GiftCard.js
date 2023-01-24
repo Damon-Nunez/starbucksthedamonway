@@ -63,7 +63,7 @@ const GiftCard = () => {
             <div className="BulkGiftCardText">
           <h2>Gift Cards in Bulk</h2>
               <p>There’s an easier way to buy Starbucks Cards in bulk! Give a Starbucks Card to gift, reward, incentivize, or show appreciation towards your customers, clients and team members.</p>
-              <button>Shop Now</button>
+              <a href="https://www.starbuckscardb2b.com/"><button>Shop Now</button></a>
               </div>
           </Col>
         </Row>

@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import TopFooter from "../components/TopFooter";
 import video from "../assets/giphy.gif"
 import "./Home.css"
+import { Row,Col,Container } from "react-bootstrap";
 const Home = () => {
     return (
         <div>
@@ -42,7 +43,7 @@ const Home = () => {
                 </section>
                 <section class="chill left-right-section">
                     <div class="image">
-                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72801.jpg" />
+                        <img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72801.jpg" />
                     </div>
                     <div class="text" id="poster1">
                         <h2>100% of U.S. stores now donate food</h2>
@@ -54,7 +55,7 @@ const Home = () => {
                 </section>
                 <section class="chill left-right-section">
                     <div class="image">
-                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" />
+                        <img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" />
                     </div>
                     <div class="text">
                         <h1 id="ResponsiveEdit">DELIGHTFULLY CHILL</h1>
@@ -105,7 +106,7 @@ const Home = () => {
                      
                     </div>
                     <div class="image">
-                        <img src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72800.jpg" />
+                        < img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72800.jpg" />
                     </div>
                 </section>
                 <section class="des">
