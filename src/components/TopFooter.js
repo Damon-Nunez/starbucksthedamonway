@@ -1,7 +1,12 @@
 import React from 'react';
+import { Container,Row,Col } from 'react-bootstrap';
 import './TopFooter.css';
 function TopFooter() {
 	return (
+		<div>
+		<Container>
+			<Row>
+				<Col sm={12} md={12} lg={6}>
 		<div className='topfooter'>
 			<div className='topfooter__list'>
 				<h3 className='listitems__heading'>About Starbucks</h3>
@@ -11,8 +16,13 @@ function TopFooter() {
 					<li>Our Stories and News</li>
 					<li>Investor Relations</li>
 					<li>Customer Service</li>
-				</ul>
+				</ul>	
 			</div>
+			</div>
+			</Col>
+			
+		
+				<Col sm={12} md={12} lg={6}>
 			<div className='topfooter__list'>
 				<h3 className='listitems__heading'>Careers</h3>
 				<ul className='listitems'>
@@ -23,7 +33,10 @@ function TopFooter() {
 					<li>Retail Careers</li>
 				</ul>
 			</div>
-
+			</Col>
+					</Row>
+				<Row>
+					<Col sm={12} md={12} lg={6}>
 			<div className='topfooter__list'>
 				<h3 className='listitems__heading'>Social Impact</h3>
 				<ul className='listitems'>
@@ -33,6 +46,8 @@ function TopFooter() {
 					<li>Environmental and Social Impact Reporting</li>
 				</ul>
 			</div>
+			</Col>
+					<Col sm={12} md={12} lg={6}>
 			<div className='topfooter__list'>
 				<h3 className='listitems__heading'>For Business Partners</h3>
 				<ul className='listitems'>
@@ -40,6 +55,11 @@ function TopFooter() {
 					<li>Branded Solutions</li>
 				</ul>
 			</div>
+			</Col>
+			</Row>
+		
+				<Row>
+					<Col sm={12} md={12} lg={12}>
 			<div className='topfooter__list'>
 				<h3 className='listitems__heading'>Order and Pickup</h3>
 				<ul className='listitems'>
@@ -49,7 +69,11 @@ function TopFooter() {
 					<li>Order and Pickup Options</li>
 				</ul>
 			</div>
+			</Col>
+			</Row>
+			</Container>
 		</div>
+		
 	);
 }
 
