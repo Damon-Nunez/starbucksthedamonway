@@ -173,3 +173,50 @@
 .GiftCardRow {
   background-color: rgb(248,249,248);
 }
+.GiftCardSupport {
+  background-color: rgb(237,234,232);
+  
+}
+.GiftCardSupportRow {
+  background-color: rgb(237,234,232);
+  height:300px;
+}
+.GiftCardSupport h2 {
+  letter-spacing: .1em!important;
+    text-transform: uppercase!important;
+    font-size:1.3rem!important;
+    font-weight:700!important;
+    margin-bottom: 0.8rem!important;
+    margin:auto;
+}
+.GiftCardSupport p {
+  max-width: 400px;
+  padding-bottom: 0.8rem!important;
+    padding-top: 0.8rem!important;
+    margin:0;
+    font-weight:600!important;
+}
+.GiftCardSupport button {
+  padding-left:80px;
+  min-width: 35px;
+    min-height: 35px;
+    margin-right: 1.6rem!important;
+    margin-top: 1.6rem!important;
+    background:none;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    display: inline-block;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+   
+}
+.GiftCardSupport button:hover {
+  z-index:2;
+  transform: scale(1.2);
+}

@@ -67,6 +67,17 @@ const GiftCard = () => {
               </div>
           </Col>
         </Row>
+        <Row className="GiftCardSupportRow">
+          <Col sm={12} md={12} lg={12}>
+            <div className="GiftCardSupport">
+            <h2>GIFT CARD SUPPORT</h2>
+            <p>Use the links below to manage eGifts you have sent or received, or view our full Card Terms & Conditions.</p>
+            <a href="https://starbucks.cashstar.com/self_service/v2/register/"><button>eGiftSupport</button></a>
+            <a href="https://www.starbucks.com/terms/manage-gift-cards/"><button>See Terms & Conditions</button></a>
+            <a href="https://customerservice.starbucks.com/app/answers/list/session/L3RpbWUvMTYxNzgzMzQ5My9nZW4vMTYxNzgzMzQ5My9zaWQvZlU2bF9rcGl4JTdFS3RaM3BtVUxQa3owZFNGRXhVWUxmMmVyTk1zWTZCV3dkcElBVWVCMzdVdHZ3SlpUWTdsNHViQ1NMd2ZHY3pvS1UwbzUwNDkzNGc1ZjhuOWFlWmlydG94WUd4WlpLQzJkSEhScHdfMWExVDl4TXclMjElMjE%3D/p/145"><button>eGift FAQS</button></a>
+            </div>
+          </Col>
+        </Row>
       <TopFooter/>
       </div>
   )
