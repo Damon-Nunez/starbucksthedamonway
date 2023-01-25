@@ -6,6 +6,8 @@ import { Row, Col, Container } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 // This file is meant to render all the prop values through the reciever names(Line 13-20 names)
 // and getting the values in the prop value bank(contents.whatever)
+
+
 const Menu = () => {
     return (
         <div>

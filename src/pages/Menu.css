@@ -94,6 +94,8 @@
 .firstRow {
     margin-top:50px;
 }
+
+
 @media screen and (max-width:750px) {
     .MiniSectionName {
         margin-bottom:50px;
