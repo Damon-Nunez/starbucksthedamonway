@@ -55,6 +55,7 @@ const Menu = () => {
                     </a>
                     <h1 className="caption"> Veranda Blend </h1>
                     </div>
+                    </Row> <Row>
                     <div className="box">
                         <a href="https://www.starbucks.com/menu/product/478/hot">
                             <img className="HCImage" src="https://imgs.search.brave.com/dLCn1sEWKF7L4t9LMHZCOSOAjnm0QuggCxdyi_cXA6E/rs:fit:600:614:1/g:ce/aHR0cHM6Ly93d3cu/YXdlc29tZWludmVu/dGlvbnMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE1LzA1/L2NhZmUtbWlzdG8u/anBn">
@@ -62,6 +63,7 @@ const Menu = () => {
                         </a>
                         <h1 className="caption"> Caffe Misto </h1>
                     </div>
+
                     <div className="box">
                         <a href="https://www.starbucks.com/menu/product/479/hot">
                             <img className="HCImage" src="https://imgs.search.brave.com/iiqBHHbrGPa_Lr9Ju88gg5udrsK_Cije6Kt4VY4Y4zo/rs:fit:305:363:1/g:ce/aHR0cDovL2dsb2Jh/bGFzc2V0cy5zdGFy/YnVja3MuY29tL2Fz/c2V0cy82ZWQyOGQx/NjA1YTI0NGU4OWU2/N2Q0ODkyMDkxZmI4/Ny5qcGc">
