@@ -62,7 +62,8 @@ const SnacksandSweets = () => {
                     </a>
                     <h1 className="caption"> Gingerbread Biscotti </h1>
                 </div>
-
+                </Row>
+               <Row>
                 <div className="box">
                     <a href="https://www.starbucks.com/menu/product/2121740/single">
                         <img className="HCImage" src="https://imgs.search.brave.com/vBr02VcPQ0zPTtz_0Wh5zzpYVFyfubCOyD6PSULaAl0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdWdh/cnNwdW5ydW4uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA4L01hZGVsZWlu/ZXMtUmVjaXBlLTEt/b2YtMS5qcGc">
@@ -71,8 +72,7 @@ const SnacksandSweets = () => {
                     </a>
                     <h1 className="caption"> Madeleines </h1>
                 </div>
-       </Row>
-       <Row>
+       
        <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121411/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/hOsmbWdgKVOwM8BnACFdJIHGntd68ePKbQH2gdDI7Yc/rs:fit:682:1024:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC83Yi82Yy8yNi83/YjZjMjYwOTdhMjQx/NDU5YjQ5ODdmM2Vj/ODA0N2NkZC0tYmlz/Y290dGktcmVjaXBl/LXNpbXBsZS1yZWNp/cGVzLmpwZw">
@@ -81,7 +81,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption">Vanilla Biscotti with Almonds </h1>
                         </div>
-
+</Row>
+       <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121410/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/buT_IjLIaI_OjdJc1JPtbhaZKA5-Ur3E2R4Kzg-99Lo/rs:fit:305:363:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvN2VlYzFm/NGQ1MTUyNGI2M2Ez/MWQyZTA4Nzg3OTM1/YjUuanBn">
@@ -132,7 +133,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption">Dark Chocolate Sea Salt Caramels  </h1>
                         </div>
-
+  </Row>
+       <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122093/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/VYiImcwgZgXfm5I3Ljjxk-mSN4ka4asKbQ4h9joC3EM/rs:fit:620:886:1/g:ce/aHR0cDovL3d3dy5t/YWtpbmd0aHltZWZv/cmhlYWx0aC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMTUv/MDgvU2FsdGVkLUFs/bW9uZC1EYXJrLUNo/b2NvbGF0ZS1Db2Nv/bnV0LUJpdGVzLV9f/dGh1bWIxLmpwZw">
@@ -141,8 +143,7 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> Salted Almond Chocolate Bites </h1>
                         </div>
-       </Row>
-       <Row>
+     
        <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122119/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/7i7VGv5MtpMeBb89X5A_o0feY8dtzKT6xxw-x8Z63so/rs:fit:900:900:1/g:ce/aHR0cHM6Ly93d3cu/Z291cm1ldGZvb2R3/b3JsZC5jb20vaW1h/Z2VzL1Byb2R1Y3Qv/bGFyZ2UvZGFyay1j/aG9jb2xhdGUtY292/ZXJlZC1lc3ByZXNz/by1iZWFucy0xUy05/MTQuanBn">
@@ -151,7 +152,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> Dark Chocolate Covered Espresso Beans </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121686/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/PeM1ybh4upBfEFQ8z7yRkzqRTiElLBsUs6CLpIoXXkg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9idWxr/cHJpY2VkZm9vZHNo/b3BwZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMDIv/cHJvZHVjdF82XzRf/NjQwMTE1LmpwZw">
@@ -181,6 +183,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> Peter Rabbit™ Organics Apple & Grape </h1>
                         </div>
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121692/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/gUtXEZG-7SQ1PaW2FYSkMUv6xVMd-w1njOrrNMH6R-c/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvZmNj/ZTMwZjItMzdmNy00/ZWIwLTkyMmUtYzIw/MGVkZmEzZmE0XzEu/MzBiZTQ0ZWQ5ZTBl/MWViOGYyMmZjNzcy/ZmEwZThkMzEuanBl/Zz9vZG5XaWR0aD0x/MDAwJm9kbkhlaWdo/dD0xMDAwJm9kbkJn/PWZmZmZmZg">
@@ -224,7 +228,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> Salt & Vinegar Kettle Potato Chips  </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121813/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/O7vC_P-i8_Sq3G3Ok99Q2N_Jpg4JxMl3ZDDuRsi7uak/rs:fit:630:630:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvZjJkY2Rm/NzFiOWQ1NGU0Y2Ew/NWZmNWM0OTM2YThm/Y2MuanBnP2ltcG9s/aWN5PTFieTFfbWVk/aXVtXzYzMA">
@@ -256,7 +261,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> Country Archer Original Beef Jerky </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122033/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/8DbIOxg1jiflJCmrnv-CYJcVKLo9otjC6IVBoQH2tlQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mYXN0/Zm9vZG51dHJpdGlv/bi5vcmcvaXRlbS1w/aG90b3MvZnVsbC85/MjE0X3MuanBn">
@@ -286,6 +292,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption">Perfect Bar® Peanut Butter  </h1>
                         </div>
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121814/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/nRn0yF39Pu1QKuEIQ87x7xM3lmlkgtyLr6YYbXjIAMc/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9mYXN0/Zm9vZG51dHJpdGlv/bi5vcmcvaXRlbS1w/aG90b3MvNDAweDQw/MC8xNDMxNC5qcGc">
@@ -295,8 +303,7 @@ const SnacksandSweets = () => {
                             <h1 className="caption">KIND - Almond Coconut Cashew Chai </h1>
                         </div>
 
-       </Row>
-       <Row>
+       
        <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121698/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/kXF6jKeBltheLCXku8HeWU39CsydJeOTdSJlgcCMsLM/rs:fit:450:450:1/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvOTBk/MDA3MTEtMTU2Yi00/NGU2LTk5MzQtZWFh/OThhNzA4ZTc5XzEu/OTQ3ZDhiN2JlZTVi/MzJkMDFmNGYzOWEw/ZjgzZWM3ZTIuanBl/Zz9vZG5IZWlnaHQ9/NDUwJm9kbldpZHRo/PTQ1MCZvZG5CZz1m/ZmZmZmY">
@@ -305,7 +312,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> KIND® Blueberry Vanilla & Cashew Bar </h1>
                         </div>
-
+</Row>
+       <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121697/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Ut8cUEvkgvHJ-LFVYh8z11-HSEwwsW7IAgPHB8mlV_I/rs:fit:640:640:1/g:ce/aHR0cHM6Ly93d3cu/b2NhZG8uY29tL3By/b2R1Y3RJbWFnZXMv/MzgzLzM4MzYzNzAx/MV8wXzY0MHg2NDAu/anBnP2lkZW50aWZp/ZXI9Y2I5MGVmYmMw/YjExNzA2OTViMjFl/MjcxNTdkMmMwMDA">
@@ -342,7 +350,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> That's It® - Apple + Mango Bar </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121987/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/leYajaR_s3FTd_vl-eiLeQRUAlldTyTplUQUOkF_-xg/rs:fit:400:400:1/g:ce/aHR0cHM6Ly93d3cu/cXVpbGwuY29tL2lz/L2ltYWdlL1F1aWxs/L3NwNDA5NjY3NzNf/czc_JGltZzQwMCQ">
@@ -351,8 +360,7 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption"> This Bar Saves Lives™ – Dark Chocolate Cherry & Sea Salt Bar </h1>
                         </div>
-       </Row>
-          <Row>
+      
           <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121989/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/_6yZ71mC_fR6Iq_3VykNYVX8ZI34kxneydYMw5ElotU/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9kMmxu/cjVtaGE3Ynljai5j/bG91ZGZyb250Lm5l/dC9wcm9kdWN0LWlt/YWdlL2ZpbGUvbGFy/Z2VfMjhjYjc4NmQt/OWQxMC00NjFkLWI2/YTctMGVkNDRiMzFh/YTk1LnBuZw">
@@ -361,7 +369,8 @@ const SnacksandSweets = () => {
                             </a>
                             <h1 className="caption">This Bar Saves Lives™ - Dark Chocolate Peanut Butter </h1>
                         </div>
-
+ </Row>
+          <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121986/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/7GvWF3QJ84xuppn-t7UYFdVbiq_noBhIq1S47k7nvFM/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9kMmFh/bTA0bm1ocGRmOC5j/bG91ZGZyb250Lm5l/dC9pbWFnZXMvaW1h/Z2VzLzAwMC8wMzIv/MDk0L3hsYXJnZS92/YW5pbGxhLWFsbW9u/ZC5qcGc_MTU3MjQ4/OTE5NQ">

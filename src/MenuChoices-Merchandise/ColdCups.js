@@ -62,7 +62,8 @@ const ColdCups = () => {
                     </a>
                     <h1 className="caption">Cold To-Go Cup - 24 fl oz  </h1>
                 </div>
-
+                </Row>
+               <Row>
                 <div className="box">
                     <a href="https://www.starbucks.com/menu/product/2123607/single">
                         <img className="HCImage" src="https://imgs.search.brave.com/rlpQAw8FPCnSdsHj_MRw5Q5yIWDAdMQCtyJ2kGMUN4k/rs:fit:630:630:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvMmM2MWY2/YzI5MjBjNGI0OTk3/M2ExNjBmOWM3MmEy/M2MuanBnP2ltcG9s/aWN5PTFieTFfbWVk/aXVtXzYzMA">

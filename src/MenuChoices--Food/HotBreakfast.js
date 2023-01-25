@@ -64,6 +64,8 @@ const HotBreakfast = () => {
                             </a>
                             <h1 className="caption"> Impossible™ Breakfast Sandwich </h1>
                         </div>
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/369/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Y6iW7XhxSNt2EBPrt0sX34Oyt7k9-TQJY4mwvvG2nCQ/rs:fit:680:680:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdlL2Fm/LzJlLzdlYWYyZTBm/YTMzYzAyOTI4NTQ2/OWE4OTc1NWFhOWQ0/LmpwZw">
@@ -72,8 +74,7 @@ const HotBreakfast = () => {
                             </a>
                             <h1 className="caption"> Bacon, Gouda & Egg Sandwich </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121219/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Wh3-sZLNp4euySYRM2dfJi3dAJ71SYx9FN9m0r6jtAA/rs:fit:363:305:1/g:ce/aHR0cDovL2dsb2Jh/bGFzc2V0cy5zdGFy/YnVja3MuY29tL2Fz/c2V0cy8zMDFkZDM0/ZTE1MDc0Y2ZiOTc0/NjRiZTk0OWVmNzli/MC5qcGc">
@@ -82,6 +83,7 @@ const HotBreakfast = () => {
                             </a>
                             <h1 className="caption"> Double-Smoked Bacon, Cheddar & Egg Sandwich </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/368/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/8hAcoX6ksX7E-0RI-7Qy99y-msiRaofk8Nuf7uRNeTQ/rs:fit:305:305:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYTlkNWE5/NGJhY2FmNDczMGE4/NDdhYTQ3ZDdiMjhl/NWUuanBn">
@@ -140,7 +142,7 @@ const HotBreakfast = () => {
                             <h1 className="caption"> Bacon & Gruyère Egg Bites
 </h1>
                         </div>
-
+</Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122117/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/QEAuuTBDXt30NL4vCc9tuEWxwhu1BwmxXtUUcX-Rtag/rs:fit:640:480:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tcWprdndFcy0y/WjAvV0tfNHhLQll2/d0kvQUFBQUFBQUEw/MHcvdXpCLVFDUkRm/ZUlMV1dqa1JVVzFO/T2dLbHFIMXdQNEt3/Q0xjQi9zNjQwL3N0/YXJidWNrcy1lZ2ct/d2hpdGUtcm9hc3Rl/ZC1yZWQtcGVwcGVy/LXNvdXMtdmlkZS1l/Z2ctYml0ZXMtMDEu/SlBH">

@@ -84,7 +84,8 @@ import TopFooter from "../components/TopFooter";
                             </a>
                             <h1 className="caption">London Fog Tea Latte </h1>
                         </div>
-
+</Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/446/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/WISzBgGAPKii4yPfZwqCZONfUgHvFaDfsUuRLmFFwHU/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9iYXJi/YWRvcy5sYXRpbm9z/bWFya2V0aW5nLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8xMC9Sb3lhbEVu/Z2xpc2hCcmVha2Zh/c3RCbGFja1RlYS1v/bldoaXRlX0NvcmVM/aWJfRzdPUC0zMDB4/MzAwLnBuZw">
@@ -93,8 +94,7 @@ import TopFooter from "../components/TopFooter";
                             </a>
                             <h1 className="caption">Royal English Breakfast Teas </h1>
                         </div>
-               </Row>
-               <Row>
+               
 
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/465/hot">
@@ -125,7 +125,9 @@ import TopFooter from "../components/TopFooter";
                                 </img>
                             </a>
                             <h1 className="caption">Matcha Tea Latte </h1>
-                        </div>
+                        </div> 
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122274/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/AnkNjYnt4pKEXVUHU48EyWkARea-HDUMdrxibUxsN-g/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9jZG4u/dG90YWxseXRoZWJv/bWIuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzAzL3No/dXR0ZXJzdG9ja180/NTQwMTI2NzUtc2Nh/bGVkLmpwZw">
@@ -134,8 +136,7 @@ import TopFooter from "../components/TopFooter";
                             </a>
                             <h1 className="caption"> Honey Citrus Mint Tea </h1>
                         </div>
-               </Row>
-               <Row>
+              
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122574/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/T-GYgjkkvwgPwFh1mVpdxdeQMSMWOphjy_OI2lDrxSE/rs:fit:316:316:1/g:ce/aHR0cHM6Ly9qYW1h/aWNhLmxhdGlub3Nt/YXJrZXRpbmcuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzEwL0phZGVDaXRy/dXNNaW50VGVhLW9u/V2hpdGVfQ29yZUxp/Yl9zUkdCLnBuZw">

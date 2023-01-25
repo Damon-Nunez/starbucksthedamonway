@@ -65,7 +65,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Mango Dragonfruit Starbucks Refreshers® Beverage </h1>
                         </div>
-
+</Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122726/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/qFRDjGFjMP6y3KSZZtGQpETWEpVivSH_KZlKA-j4bfs/rs:fit:305:305:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYzUzM2Uz/OWNiN2Q5NGE5YTky/NzVjNTFiOGUwMjk0/YmEuanBn">
@@ -74,8 +74,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123674/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Zb2W9W9Ngj6OOLZtKP0_jDjqcAhHKlyOoXqEyJcwyso/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9zdG9y/aWVzLnN0YXJidWNr/cy5jb20vdXBsb2Fk/cy9zaXRlcy85LzIw/MjIvMDYvUGluZWFw/cGxlLVBhc3Npb25m/cnVpdC1TdGFyYnVj/a3MtUmVmcmVzaGVy/cy1TdGFyYnVja3Mt/UGFyYWRpc2UtRHJp/bmswMjR4MTAyNC0x/LTEwMjR4MTAyNC5q/cGc">
@@ -84,7 +83,8 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Paradise Drink Starbucks Refreshers® Beverage </h1>
                         </div>
-
+</Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122677/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/8VMYN5njGTzEnXxkYKA4jVia-LsiYIOw8vpdtt5VxsQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE5LzI2/LzI4LzE5MjYyODMw/OTBlMmRiMzI4Y2Fh/NGFiMGJmZjc0Zjlj/LmpwZw">
@@ -121,7 +121,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Pink Drink Starbucks Refreshers® Beverage </h1>
                         </div>
-
+            </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121342/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/KD0iMyp_kA_SDJHXoSiPCgc7gv0ddSi4fRr18YhlViw/rs:fit:683:1024:1/g:ce/aHR0cHM6Ly93d3cu/c3dlZXRzdGVlcC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDQvYmVzdC1y/ZWZyZXNoZXJzLWF0/LXN0YXJidWNrcy02/ODN4MTAyNC5qcGc">
@@ -150,7 +150,8 @@ export const ColdDrinks = () => {
                                 </img>
                             </a>
                             <h1 className="caption"> Evolution Fresh® Organic Vital Berry </h1>
-                        </div>
+                        </div> 
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122702/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/bA7QIfxDSQvywagtYS5l1GJQ7cqybDcgDXm5ZEfUreQ/rs:fit:564:564:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYWxiZXJ0c29u/cy1tZWRpYS5jb20v/aXMvaW1hZ2UvQUJT/Lzk2MDE0NTk1MD8k/bmctZWNvbS1wZHAt/ZGVza3RvcCQmZGVm/YXVsdEltYWdlPU5v/dF9BdmFpbGFibGU">
@@ -159,8 +160,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption">  Evolution Fresh® Organic Defense Up® </h1>
                         </div>
-               </Row>
-               <Row>
+              
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122701/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/sdGkrzrf7ZbiUGoeTBJKoC_Je57ab6Wgvn_avFvVBjk/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9kMmQ4/d3d3a21oZmN2YS5j/bG91ZGZyb250Lm5l/dC84MDB4L2QybG5y/NW1oYTdieWNqLmNs/b3VkZnJvbnQubmV0/L3Byb2R1Y3QtaW1h/Z2UvZmlsZS9sYXJn/ZV8yODMyMDBiMi1m/MmMwLTQ3OTEtYTkx/ZS03N2Q3YzI0OGE3/NWYuanBn">
@@ -169,6 +169,9 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Evolution Fresh® Orange </h1>
                         </div>
+                        </Row>
+
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122699/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/va0xJPz4AM08z-NmmOY2JPDjMnVHEsZyAQedAtNfMPE/rs:fit:305:305:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvNzJiOWQw/MDQ3ZDllNDFjZTg5/OTVjYzMwNDhmNzA5/MjkuanBn">
@@ -177,6 +180,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption">Evolution Fresh® Organic Super Fruit Greens </h1>
                         </div>
+                      
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122704/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/8tXEExdhYZfYnIHXMoA7TQmMF3Y25ZNJxQn_shqv7iA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvODI5/YTAzYjEtNDJmMy00/NmQ2LWIwNWEtNTk3/NTFmNGRkZjBjXzEu/YjMwNWQ1MmJkNTk1/YTIxMmI0ZDU0MzE1/NzVmZDhjNjMuanBl/Zw">
@@ -203,6 +207,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Starbucks™ Baya Energy Raspberry Lime </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/873068639/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/gsUaVJlvUZz-9vQ3jq4NK9aS6tzmGaj66bUMlvBYlHU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbmljb2xl/c3Rhc3RpbmdzcG9v/bi5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDUvZnVs/bHNpemVvdXRwdXRf/YmM4Zi5qcGc_Zml0/PTI4MzclMkMzNzgy/JnNzbD0x">
@@ -211,8 +216,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Lemonade </h1>
                         </div>
-               </Row>
-               <Row>
+            
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/873068641/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/2LxeWon5kSDmx1yvbdwOYcgCaqp0lUuOh99BGsmRWHA/rs:fit:1024:683:1/g:ce/aHR0cHM6Ly93d3cu/cHVtcGtpbm5zcGlj/ZS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTYvMDQvZnJv/emVuLXN0cmF3YmVy/cnktbGVtb25hZGUt/NS0xMDI0eDY4My5q/cGc">
@@ -241,7 +245,9 @@ export const ColdDrinks = () => {
                                 </img>
                             </a>
                             <h1 className="caption">Horizon® Organic Lowfat Milk Box </h1>
-                        </div>
+                        </div> 
+                        </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/490/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/XAiANx-niUU--5kerPft82krDfc_U53KMmkX6JpBdcw/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vd3d3LmZp/bmRob21lcmVtZWR5/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxMi8wOC9JY2Ut/Y29sZC1taWxrLmpw/Zw">
@@ -250,8 +256,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Cold Milk </h1>
                         </div>
-                </Row>
-                <Row>
+               
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122581/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/6KOCp61QiujoOgJoEu2vaWehkC6zM7fNxhviWL87RBQ/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9kMTkw/NmE4Yzg3M2I1ZDYz/OGYxMS02NmZkMTM5/ZTY3MzcxNjg3NDUw/OTA5MDQ4NzY4OTQ0/Yi5zc2wuY2YyLnJh/Y2tjZG4uY29tLzA3/NDIzNjUyMDg0NTBf/Q1JfZGVmYXVsdF9k/ZWZhdWx0X2xhcmdl/LmpwZWc">
@@ -281,6 +286,8 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption"> Spindrift® Grapefruit Sparkling Water </h1>
                         </div>
+                        </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122638/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/vLY4qkjW1Kvrs48dVyaiRz8NWauDVaeStTZZLMkFtO0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzE5/NjIvNTE3My9wcm9k/dWN0cy9TcGluZHJp/ZnRfU2hvcGlmeV9S/YXNwYmVycnlMaW1l/LmpwZz92PTE1NjUz/Njg1NjA">
@@ -291,8 +298,7 @@ export const ColdDrinks = () => {
  </h1>
                         </div>
 
-                </Row>
-                <Row>
+                
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122833/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/1_aaI6DB9RhDDK3zzWJJ_0Lk2rw7rC78R8LnnaUwDpQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mYXN0/Zm9vZG51dHJpdGlv/bi5vcmcvaXRlbS1w/aG90b3MvMTI0Mngx/MjQyLzkyMjZfcy5q/cGc">
@@ -322,6 +328,7 @@ export const ColdDrinks = () => {
                             </a>
                             <h1 className="caption">Ethos® Bottled Water </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123023/packaged">
                                 <img className="HCImage" src="https://imgs.search.brave.com/qaZXI3C-jL1SUsGujq7bnHFCn9x8gDwMG46pTCWLdn8/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9hc3IvN2Nj/ZjkzMWEtOGVhOS00/ZmM2LThlOTItZDQ0/YzM5ODBiZTQxXzEu/NjljYjA5ZDc0Nzhk/NTk4MGUxNjdlOTkx/NjNjODIwOWMuanBl/Zz9vZG5XaWR0aD0x/MDAwJm9kbkhlaWdo/dD0xMDAwJm9kbkJn/PWZmZmZmZg">

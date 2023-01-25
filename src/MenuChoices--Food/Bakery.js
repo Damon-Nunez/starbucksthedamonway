@@ -64,7 +64,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Everything Bagel </h1>
                         </div>
-
+                    </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122257/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/hN4zkCxSQQmtsbJcFJujxQ67bDE7jUkIyZ8ANXaNq28/rs:fit:1200:1200:1/g:ce/aHR0cDovL3MyLnIy/OXN0YXRpYy5jb20v/YmluL2VudHJ5LzFm/Ni94LzE3NjUxMTkv/aW1hZ2UucG5n">
@@ -95,7 +95,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Reindeer Cake Pop </h1>
                         </div>
-
+            </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/784/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/G0VlBImNtcLzDSajakYn9sla-bHxq-Xgd8k6wy-wVgE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBhLzFl/Lzk5LzBhMWU5OWU4/ZTU2NzUxNGRkMmEw/MGVmMzk4NTMwNTlk/LmpwZw">
@@ -104,8 +104,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Birthday Cake Pop </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href=" https://www.starbucks.com/menu/product/1015/single ">
                                 <img className="HCImage" src=" https://imgs.search.brave.com/Q4_ogbVb9K2OTwv5M8VKup82Iomjg6vlYOOY5QTj8Qc/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9hc3Nl/dHMtZXUtMDEua2Mt/dXNlcmNvbnRlbnQu/Y29tLzU1OWJiN2Qz/LTg4YTQtMDFjMS03/OWEzLWRkNGQ1YjJk/MmJiMC81YzhhMTlm/ZC01ODUxLTQyY2Et/ODRhMS1jM2M5YjQ3/NTc2YzgvMS1DaG9j/b2xhdGUtY2FrZS1w/b3BzLVdFQi5qcGc">
@@ -113,8 +112,7 @@ const Bakery = () => {
                                 </img>
                             </a>
                             <h1 className="caption"> Chocolate Cake Pop </h1>
-                        </div>
-               </Row>
+                        </div></Row>
                <div>
                 <header className='MiniSectionName'> Cookies,Brownies, and Bars </header>
                </div>
@@ -136,7 +134,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption">Bullseye Cookie </h1>
                         </div>
-
+</Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/506/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/6MSa4-beWDCE6XTNSDjAP0bhvYy5sluKopZjLUHc_vI/rs:fit:1140:1200:1/g:ce/aHR0cDovL3d3dy50/aGUtZ2lybC13aG8t/YXRlLWV2ZXJ5dGhp/bmcuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDExLzEyL2Ny/YW5iZXJyeS1ibGlz/cy1iYXJzLTEuanBn">
@@ -145,8 +143,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Cranberry Bliss® Bar </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121590/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/cXrLKJhj_UucyX_tno3RUe1g7m48Js3KBrs801mfkmk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzYyLzNi/LzAwLzYyM2IwMGY5/MTE5ZDRjNDFhY2Nj/OTQ0ZTA0MTFiNDM5/LmpwZw">
@@ -155,7 +152,8 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Cranberry Bliss® Bar Tray </h1>
                         </div>
-
+</Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1130/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Tnp6CSxomWhRQESH_4RlDJN8dzRif5PYAoFIS-GZOhw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/cmV0cm9yZWNpcGVi/b3guY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA0L2Rv/dWJsZS1jaG9jb2xh/dGUtYnJvd25pZXMt/NC5qcGc">
@@ -214,7 +212,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Butter Croissant </h1>
                         </div>
-
+    </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1028/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/QXlfSQhxiYggh06oBMWZAv3FI0dwIvNEylaw8Zw1RLU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/d2VpcmRicm90aGVy/cy5jb20vdXBsb2Fk/cy8xLzMvMS80LzEz/MTQyOTE2L3M5NjA5/NjE5MTMxMjM1Njk5/NjBfcDcxX2kxX3cx/OTIwLmpwZWc">
@@ -245,7 +243,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Chocolate Pistachio Swirl </h1>
                         </div>
-
+</Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1021/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/DXUJyiPfCHL7ntYR_-_Lc7ucGq4ioQ4n63hdfuKqGZE/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly93d3cu/c3RhcmJ1Y2tzLnR0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA1L2NsYXNzaWMt/Y29mZmVlLWNha2Ut/MTAyNHgxMDI0Lmpw/Zw">
@@ -254,8 +252,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Cinnamon Coffee Cake </h1>
                         </div>
-                        </Row>
-                        <Row>
+                        
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1254/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/QY_aRu6PaBQn7ASpd3UA6rz_FyS0yrxSfzKnSLLyeZA/rs:fit:474:355:1/g:ce/aHR0cHM6Ly93d3cu/Z3JhY2VsaWtlcmFp/bmJsb2cuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAz/L3N0YXJidWNrcy1s/ZW1vbi1sb2FmLTgu/anBlZw">
@@ -264,7 +261,8 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption">Iced Lemon Loaf </h1>
                         </div>
-
+</Row>
+                        <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1255/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/WlcxiLlen6C28g55z9UvjI6V1GmVq-tzMSRARjteudE/rs:fit:1066:1200:1/g:ce/aHR0cHM6Ly80LmJw/LmJsb2dzcG90LmNv/bS8tem1XWW9Pb1kx/MmsvVzQxbkNueGRy/TEkvQUFBQUFBQUFo/cGsvMXluNDZMdXhF/U3M3dWdJVno4dE01/OXZlTlAwUVdqYTl3/Q0xjQkdBcy9zMTYw/MC9QdW1wa2luJTJC/TG9hZiUyQjglMkIl/MjUyODElMkJvZiUy/QjElMjUyOS5qcGc">
@@ -304,7 +302,7 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Glazed Doughnut </h1>
                         </div>
-
+</Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122869/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/T81lY5iy9Zis15Dp1kh8xo6dLQt4itHRgc5u8bThJYQ/rs:fit:474:474:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvY2QwY2U0/YjQ4N2VlNGFlNmE0/YTY3N2UzYzEzZjgw/MzEuanBn">
@@ -338,7 +336,8 @@ const Bakery = () => {
                             </a>
                             <h1 className="caption"> Blueberry Scone </h1>
                         </div>
-
+</Row>
+                        <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/317/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/mPrHbZ1xLndp_5k-zqeTcpFVCHriB0rxgguLX4DDuBs/rs:fit:1200:1200:1/g:ce/aHR0cDovLzEuYnAu/YmxvZ3Nwb3QuY29t/Ly1lZmp5LWZNc21X/Zy9VWW5lMkhmWThf/SS9BQUFBQUFBQUZz/RS9TWkQxTlBwdTlG/ay9zMTYwMC8wMjYu/SlBH">
@@ -349,8 +348,7 @@ const Bakery = () => {
                         </div>
 
 
-                        </Row>
-                        <Row>
+                        
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/1036/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Do8SgR0dDoKeOoTSHlFgR4lIv_S1AKsgv5-ktMbnI1M/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/dGFzdGVvZmhvbWUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzAxL1dpbGQt/Qmx1ZWJlcnJ5LU11/ZmZpbnNfRVhQU19G/VFRNWjE5Xzc4N19C/MDNfMDVfN2Jfcm1z/LmpwZw">

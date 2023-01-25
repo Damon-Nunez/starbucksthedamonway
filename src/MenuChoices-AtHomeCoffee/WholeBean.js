@@ -64,7 +64,8 @@ const WholeBean = () => {
                             </a>
                             <h1 className="caption"> Ethiopia Yirgacheffe® Chelelektu Starbucks Reserve® </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123711/whole-bean">
                                 <img className="HCImage" src="
@@ -118,7 +119,8 @@ const WholeBean = () => {
                             </a>
                             <h1 className="caption"> Starbucks® Holiday Blend </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123124/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/7ERTKsHqhcyNIJ8YD2m6XZgU5Pru6AaXTlmqndysYro/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9zdG9y/aWVzLnN0YXJidWNr/cy5jb20vdXBsb2Fk/cy8yMDE5LzA5L1NC/WDIwMTkwNjI0XzM4/NDMyLVdob2xlQmVh/blNpcmVuJUUyJTgw/JTk5c0JsZW5kLW9u/R3JlZW5fQ29yZUxp/Yl8xOTA3MTFfc1JH/Qi0xMDI0eDEwMjQu/anBn">
@@ -129,8 +131,7 @@ const WholeBean = () => {
                         </div>
 
 
-                </Row>
-                <Row>
+               
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/3/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/mzWZPEx8ltBZ0S50j3rtrDcfJAiuybTXRP0RT9wqNfo/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1ZSQUFB/T1N3UFVOZmFSRG8v/cy1sMzAwLmpwZw">
@@ -139,7 +140,8 @@ const WholeBean = () => {
                             </a>
                             <h1 className="caption"> Guatemala Antigua Whole Bean Coffee </h1>
                         </div>
-
+ </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/24/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/QfsyRPLVb-PbNQ2gMuIOB3ZdYKCOuH_tNgEK0hMW1T4/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/ZGVsaWNvLnNlL21l/ZGlhL2NhdGFsb2cv/cHJvZHVjdC9jYWNo/ZS8xL2ltYWdlLzUw/MHgvOWRmNzhlYWIz/MzUyNWQwOGQ2ZTVm/YjhkMjcxMzZlOTUv/cy90L3N0YXJidWNr/c19waWtlX3BsYWNl/XzI1MGdfMjAxNDEy/LnBuZw">
@@ -148,7 +150,7 @@ const WholeBean = () => {
                             </a>
                             <h1 className="caption">Pike Place® Roast </h1>
                         </div>
-
+                  
                         <div className="box">
                             <a href=" https://www.starbucks.com/menu/product/290/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/wdFeig90BVvpP0WdmgoyVVEvKfOqV6GAkPD3w1YQR7M/rs:fit:400:400:1/g:ce/aHR0cHM6Ly9kMmQ4/d3d3a21oZmN2YS5j/bG91ZGZyb250Lm5l/dC80MDB4L2QybG5y/NW1oYTdieWNqLmNs/b3VkZnJvbnQubmV0/L3Byb2R1Y3QtaW1h/Z2UvZmlsZS9sYXJn/ZV8yNDdkMjExNC0z/MjgwLTRiYTYtOWE5/NS05NWM2MjU3NjFj/MjIuanBn">
@@ -156,8 +158,7 @@ const WholeBean = () => {
                                 </img>
                             </a>
                             <h1 className="caption"> Organic Yukon Blend® Whole Bean Coffee  </h1>
-                        </div>
-                </Row>
+                        </div>      </Row>
                 <div>
                   <header className='MiniSectionName'> Dark Roast</header>
                 </div>
@@ -179,7 +180,8 @@ const WholeBean = () => {
                             </a>
                             <h1 className="caption"> Christmas Blend </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/294/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/cY92OL6SqVGclU-pC3Fte6owosgHtEXE89FCwFA0nRY/rs:fit:480:640:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tL2lt/YWdlcy9nL1VRVUFB/T1N3Q29WZX4wT0sv/cy1sNjQwLmpwZw">
@@ -190,8 +192,7 @@ const WholeBean = () => {
                         </div>
 
 
-                </Row>
-                <Row>
+               
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/581/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/mu7fYOg7rLXzMjiN28swq1DJ-bZnVDoAxfSxoZgcUwI/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly93d3cu/c3RhcmJ1Y2tzLnR0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA1L2RlY2FmX3N1/bWF0cmFfd2JfZnkx/NF91c19nci0xMDI0/eDEwMjQuanBn">
@@ -201,7 +202,8 @@ const WholeBean = () => {
                             <h1 className="caption">
 Decaf Sumatra </h1>
                         </div>
-
+ </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/15/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/IhAt95hmYaHJv3_6bKJTNBForWhB2Ic4yDoAB8-YQCU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/c2hvcGlmeS5jb20v/cy9maWxlcy8xLzAw/NzQvMzI0Ny8wNjEz/L3Byb2R1Y3RzL1N0/YXJidWNrc19DYWZm/X1Zlcm9uXzAyMTY4/Ml83NjQ3XzBfcmVz/LmpwZz92PTE1OTUw/MjE5ODk">
@@ -240,7 +242,8 @@ Decaf Sumatra </h1>
                             </a>
                             <h1 className="caption"> Komodo Dragon Blend®</h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/8/whole-bean">
                                 <img className="HCImage" src="https://imgs.search.brave.com/AjynXjjuI2Z3VBh_6U3gLSzChwZ4nzyf0pVu5GOt4N4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaGViLmNvbS9p/cy9pbWFnZS9IRUJH/cm9jZXJ5LzAwMDY2/Nzg0Mg">

@@ -167,6 +167,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption"> Caramel Brulee Latte</h1>
                         </div>
+                        </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/873068661/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/IV6KMOSI4yDL8P_qqJReHY_bSfsxBfWUmNwxszu-11A/rs:fit:305:305:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNDc0/eC80ZS8wMS9mYi80/ZTAxZmI5NTkzYWMz/ZDFkNjhkOTNhZGVi/YjQ5OTZhMS5qcGc">
@@ -201,6 +202,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption">Cinnamon Dolce Latte </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122614/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/7MolrTMfCAyPdPnLAwJkXFtKTbUtry0zoq-3W4UBXH8/rs:fit:500:500:1/g:ce/aHR0cHM6Ly9zdGFy/Ym1hZy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDcv/V2hhdC1pcy1TdGFy/YnVja3MtUmVzZXJ2/ZS1MYXR0ZS01MDB4/NTAwLnBuZw">
@@ -271,7 +273,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption"> Peppermint White Chocolate Mocha </h1>
                         </div>
-
+                        </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122482/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/ALcx0kIZiAqERwvaDyXlLkYb5S6osgtsWBShLT3uEC4/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9pbWdp/eC5idXN0bGUuY29t/L3VwbG9hZHMvaW1h/Z2UvMjAxNy8xMS85/L2RhYTk0MDlmLTBm/NjMtNDhhNS1hOTVl/LWM4MmE2Nzg1ZjQ5/My10b2FzdGVkLXdo/aXRlLWNob2NvbGF0/ZS1tb2NoYS5qcGc_/dz04MDAmYXV0bz1m/b3JtYXQlMkNjb21w/cmVzcyZjcz1zcmdi/JnE9NzAmZml0PWNy/b3AmY3JvcD1mYWNl/cw">
@@ -280,7 +282,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption"> Toasted White Chocolate Mocha</h1>
                         </div>
-
+                    
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/408/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/6lAiSktf0NneryIkUno8Q6uS8zLO0FTcosVoq95Y8Lk/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9jYW5k/bGVzYW5kY29mZmVl/aG91c2UuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0lNR18xMjQ3Lmpw/Zw">
@@ -329,6 +331,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption"> Guatemala Lake Atitlan Clover</h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123698/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Ep9Lvihy7qnjO3JPIwtCqVctNtiPpcAVcynftqUU0VQ/rs:fit:700:1079:1/g:ce/aHR0cDovL3N0YXRp/YzEuc3F1YXJlc3Bh/Y2UuY29tL3N0YXRp/Yy81NmRhNWYwY2Q1/MWNkNDIyNGUzZmI0/NTgvNTZkYTVmZTlj/MmVhNTFlYWRhYjc2/OTNhLzYxZTA2N2M3/OTVkMjc1MmExOWRi/M2UzYS8xNjQyMDk3/NDA5OTQ4L2Zyb250/K29mK2dhbGFwYWdv/cy5qcGc_Zm9ybWF0/PTE1MDB3">
@@ -365,6 +368,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption">Organic Yukon Blend Clover® </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121635/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/tX-5uJJEM6dPfRYKjGBwsTbb_llAXLVPk2DZnNx0cps/rs:fit:300:300:1/g:ce/aHR0cHM6Ly9jcmF6/eWNvZmZlZWNyYXZl/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMS8wMi9DQUhf/R2xvYmFsX1ZlcmFu/ZGFCbGVuZF9Hcm91/bmRfQmFnX0Zyb250/XzAtMzAweDMwMC5q/cGc">
@@ -400,7 +404,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption">Clover Brewed® Decaf Pike Place® Roast </h1>
                         </div>
-
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121582/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/uKa2qW603DpozlPXXaTNd1xb5hBLfk8Rvx8J_30SJbk/rs:fit:630:630:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYWZkYjhi/OWFjZjc4NDY3OWE2/ZGI5ZjIxMGE4Zjgz/YmMuanBnP2ltcG9s/aWN5PTFieTFfd2lk/ZV90b3Bjcm9wXzYz/MA">
@@ -436,6 +440,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption">Komodo Dragon Clover® </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121630/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/2JDRBIJOWh4nM4Usw2T1BSS33F5191wSCozVHASCunU/rs:fit:305:363:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYmZlZThm/MjVjMDJiNGMxNTk1/YzIxODY3MmI1ZGU4/YjcuanBn">
@@ -466,7 +471,7 @@ const Menu = () => {
                             </a>
                             <h1 className="caption">Coffee Traveler Dark Roast </h1>
                         </div>
-
+                    </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/873068655/hot">
                                 <img className="HCImage" src="https://imgs.search.brave.com/R9ovUJ9y9yLYPdkGTiPtLzqzA487hC2jhJDG44N05wM/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3VtbWl0bWVk/aWEtZGlnaXRhbC5j/b20veXVtbXlwaC9p/bWFnZXMvMjAyMS8w/NC8wOC9zdGFyYnVj/a3MtY29mZmVlLXRy/YXZlbGVyLWtpdC0w/MS5qcGc">

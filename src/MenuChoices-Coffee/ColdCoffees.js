@@ -64,6 +64,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">Chocolate Cream Cold Brew </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122795/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/c7w_88SsuLVDPJdrvp1NeBLWdNtKfy3Z5i8NmTZnlZY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/c3RheXJvYXN0ZWQu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzA4L3NhbHRl/ZC1jYXJhbWVsLWNy/ZWFtLWNvbGQtYnJl/dy0yLmpwZw">
@@ -73,8 +74,6 @@ export const ColdCoffees = () => {
                             <h1 className="caption"> Salted Caramel Cream Cold Brew  </h1>
                         </div>
 
-               </Row>
-               <Row>
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123139/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/jYBsgTdvX7X9SQjg4BV0WsaxyUDcL-CgsGeNsZXlEe4/rs:fit:887:739:1/g:ce/aHR0cHM6Ly93d3cu/ZmFzdGZvb2Rwb3N0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAxOS8xMi9TdGFy/YnVja3MtTmV3LUly/aXNoLUNyZWFtLUNv/bGQtQnJldy1oZXJv/LmpwZw">
@@ -83,6 +82,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">Irish Cream Cold Brew </h1>
                         </div>
+                                       </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121255/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/U3fRMQDnmq13trQfUQKX0eEdGKii6zW7ReH7R7p9KXM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvZjQ5NDY0/OGYwMzQxNDY3YWFh/YWMxNGQ2MjE2ZjQ5/MzQuanBn">
@@ -167,7 +168,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Coffee with Milk </h1>
                         </div>
-
+        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/410/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/ioYH-5oLFrjkk3NK0rJRPu3eo2xS9MxuT-uBjD60nk8/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9wLWNk/bjZjb2ZmZWUuam1z/aW5mLmNvbS90bXAv/aW1hZ2UtdGh1bWJu/YWlscy9hYS1yZWNp/cGUtaW1hZ2VzL2lt/YWdlLXRodW1iX18x/MTQyX19hdXRvX2Rl/MTFkY2JiNDQxOWEy/MTkxZTY4MmM4NWQy/NjFhNjA3L2JyZXdl/ZC1lc3ByZXNzby1p/Y2VkLWNvZmZlZS02/ODExXzEwNTUzXzE4/MzQucG5n">
@@ -198,7 +199,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Brown Sugar Oatmilk Shaken Espresso </h1>
                         </div>
-
+        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123430/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/dcb1PKZBqVxD2xrLpRrkCqTC5uFS8-jD3WB6e3b8Khk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9ibG9n/Z2Vycy5zb2NpZXR5/MTkuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE1LzExL2Nv/Y29udXQtbWlsay1t/YWNjaWF0by5qcGc">
@@ -207,8 +208,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Chocolate Almondmilk Shaken Espresso </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123425/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/vVoHlfY15smYDQ3g3QTwWGs9U-2MyW5TEcfNXQRokvI/rs:fit:1024:1024:1/g:ce/aHR0cHM6Ly9jYWtl/YmFraW5nLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/My9pY2VkLXNoYWtl/bi1lc3ByZXNzby1y/ZWNpcGUtOTY1Nzkz/LTEwMjR4MTAyNC5q/cGc">
@@ -216,8 +216,7 @@ export const ColdCoffees = () => {
                                 </img>
                             </a>
                             <h1 className="caption"> Iced Shaken Espresso </h1>
-                        </div>
-               </Row>
+                        </div></Row>
                <div>
                 <header className='MiniSectionName'> Iced Flat Whites</header>
                </div>
@@ -260,6 +259,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Caramel Brulée Latte </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/873068661/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Xdsc-Qgd3lHcedIY-7fIXpEHt3djg8xt-stYOu59tg0/rs:fit:305:305:1/g:ce/aHR0cDovL2dsb2Jh/bGFzc2V0cy5zdGFy/YnVja3MuY29tL2Fz/c2V0cy8xY2EyMzg3/M2FjMzY0NGNmYTI1/MTc4NjYzNWZiZmFj/YS5qcGc">
@@ -268,8 +268,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">Iced Chestnut Praline Latte </h1>
                         </div>
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123591/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/ehOpc6fwERCNMqV5WJp02H1q-4n-1Kw-1v9klY2XQTQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93ZWFy/ZW5vdG1hcnRoYS5j/b20vd3AtY29udGVu/dC91cGxvYWRzL0lj/ZWQtU3VnYXItQ29v/a2llLUFsbW9uZC1N/aWxrLUxhdHRlLUZl/YXR1cmVkLmpwZw">
@@ -278,6 +277,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Sugar Cookie Almondmilk Latte </h1>
                         </div>
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122614/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/4yofkJ_v2IHLjewH8YkQtrh20yV5PP8CWrXEIzvn4T0/rs:fit:1080:1080:1/g:ce/aHR0cHM6Ly93d3cu/c3RhcmJ1Y2tzLmNv/LnRoL3N0Yi1tZWRp/YS8yMDIwLzA5LzEy/MS5MYXR0ZV9JY2Vk/X1Jlc2VydmVfQmxh/Y2tFRzEwODAucG5n">
@@ -312,6 +313,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">  Iced Cinnamon Dolce Latte</h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122164/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/zXhgO7ncia-7ghkZwD-Y1rWtEs4I4xyL9zXn2U8Cobk/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2RmLzcw/LzBkL2RmNzAwZDkw/Y2QxZWJmZTFjMDhl/ZmUwMTIzYzE3MmY2/LmpwZw">
@@ -355,6 +357,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">Iced White Chocolate Mocha </h1>
                         </div>
+                         </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/497/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/_Z4PA60RwXAP53oCDcbQDM0wSAMbdbircr9lZaqwtGE/rs:fit:500:500:1/g:ce/aHR0cHM6Ly93d3cu/cGF1bGFkZWVubWFn/YXppbmUuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE2LzAx/L1BlcHBlcm1pbnQt/V2hpdGUtQ2hvY29s/YXRlLU1vY2hhLTUw/MHg1MDAuanBn">
@@ -363,8 +366,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Peppermint White Chocolate Mocha </h1>
                         </div>
-               </Row>
-               <Row>
+                       
+              
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122482/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/r1Amp3CYoAbGf2tKsYYhvzDO8Tb_m6MaDUT87wXTzz4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9tZWRp/YTEucG9wc3VnYXIt/YXNzZXRzLmNvbS9m/aWxlcy90aHVtYm9y/L3RyYV80VEtKVWJu/eWNKN1IxcEpSdFdW/Nm8xcy9maXQtaW4v/MjA0OHhvcmlnL2Zp/bHRlcnM6Zm9ybWF0/X2F1dG8tISEtOnN0/cmlwX2ljYy0hIS0v/MjAxNy8xMS8wOC8w/Nzgvbi8xOTIyMTk1/L3RtcF85SjRVRnFf/MmFhNTg3MGRkM2Yx/YzU0Y19Ub2FzdGVk/X1doaXRlX0Nob2Nv/bGF0ZV9Nb2NoYV9J/Y2VkLmpwZw">
@@ -373,6 +376,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Toasted White Chocolate Mocha </h1>
                         </div>
+                         </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/408/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/nUBi6nyu3cT7vD3fh-faIZde5wO_TW2MDT-GOnzerNQ/rs:fit:301:303:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8zNy9lNS9iOC8z/N2U1YjhlNmFiZjI3/NTQzMmI0YzllZWY1/NGM1Mzk5Ny0tbW9j/aGEuanBn">
@@ -411,6 +416,7 @@ export const ColdCoffees = () => {
                             <h1 className="caption"> Iced Galápagos La Tortuga Clover® Starbucks Reserve®
  </h1>
                         </div>
+                        </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123701/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/utlBzWmZRSl6zZThYl8XHxTzqZPiKNU4fC_vMQ0Zxe8/rs:fit:225:225:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTmpRd1dEWTBN/QT09L3ovSlRvQUFP/U3dQMlZmSXlzRC8k/XzYyLkpQRz9zZXRf/aWQ9ODgwMDAwNTAw/Nw">
@@ -419,8 +425,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Guatemala Lake Atitlán Clover® Starbucks Reserve® </h1>
                         </div>
-                </Row>
-                <Row>
+                
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122090/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/RS0SZ_2rcWXKwIf1IlP4iV0gXRjD8qbC_uuqAc5Vfug/rs:fit:469:281:1/g:ce/aHR0cHM6Ly9zdG9y/aWVzLnN0YXJidWNr/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvRjRQ/WnJkdkUtNTg4LTMz/MS5qcGc">
@@ -429,6 +434,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Ethiopia Yirgacheffe® Chelelektu Clover® Starbucks Reserve® </h1>
                         </div>
+                        </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121636/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/5lKbLN2l4-806T6aQtX6a6-jXy2PgxeP1L--PrbRJAk/rs:fit:900:900:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzEwLzU5/LzQxLzEwNTk0MWVk/ZWNiNjRlNTUyYmYz/ZjlkZDMzOWExM2Qx/LmpwZw">
@@ -463,6 +470,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Espresso Roast Clover® </h1>
                         </div>
+                        </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121587/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/nWM6KUnlgSxu9HbUkjto3GRq-WTis_3iNqJQkA8Xsj0/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYzNkMTli/ZDhiMzM3NGZkNWJl/NzBmNDU5MmY3M2I1/MmMuanBnP2ltcG9s/aWN5PTFieTFfd2lk/ZV82NDA">
@@ -471,8 +479,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Clover Brewed® Italian Roast </h1>
                         </div>
-                </Row>
-                <Row>
+                
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122377/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/UGTmOcv8Us7pw3ld-b-hQ0cmUdTzK0X6jmsg0l_bWSI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvMTBlNzZh/MjczMjM3NDUwNTk0/NzYyYjNiODhkODBi/NjQuanBn">
@@ -481,6 +488,8 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption"> Iced Komodo Dragon Clover® </h1>
                         </div>
+                        </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121629/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/DbCWePhZOeQJAeETjcuiTT2Skd2a3fVOYmGmbrL0TvY/rs:fit:900:900:1/g:ce/aHR0cDovL2NvbnRl/bnQuZXRpbGl6ZS5j/b20vaW1hZ2VzLzkw/MC8xMDIzNTU2Mjg1/LmpwZw">
@@ -515,6 +524,7 @@ export const ColdCoffees = () => {
                             </a>
                             <h1 className="caption">Iced Decaf Sumatra Clover® </h1>
                         </div>
+                        </Row> <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121630/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/2JDRBIJOWh4nM4Usw2T1BSS33F5191wSCozVHASCunU/rs:fit:305:363:1/g:ce/aHR0cHM6Ly9nbG9i/YWxhc3NldHMuc3Rh/cmJ1Y2tzLmNvbS9h/c3NldHMvYmZlZThm/MjVjMDJiNGMxNTk1/YzIxODY3MmI1ZGU4/YjcuanBn">

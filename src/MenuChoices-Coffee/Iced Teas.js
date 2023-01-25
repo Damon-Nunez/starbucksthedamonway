@@ -86,6 +86,7 @@ export const IcedTeas = () => {
                             </a>
                             <h1 className="caption"> Iced Black Tea Lemonade </h1>
                         </div>
+                        </Row><Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/465/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/8TdoXmWBk8m8RnLjUI4RTd2q7ov2xZc1J1m6paRIJSo/rs:fit:680:680:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxLzYw/Lzk4L2UxNjA5ODg1/ZjcwYjIzYmI0YTYw/MGE5ODViYTJjZDMy/LmpwZw">
@@ -95,8 +96,7 @@ export const IcedTeas = () => {
                             <h1 className="caption"> Iced Royal English Breakfast Tea Latte </h1>
                         </div>
 
-               </Row>
-               <Row>
+               
                <div className="box">
                             <a href="https://www.starbucks.com/menu/product/477/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/wifhAhHFGVa7xl--Bnb8gzASXpt0lnuV4WD5TmygOkU/rs:fit:768:1152:1/g:ce/aHR0cHM6Ly93d3cu/c3dlZXRzdGVlcC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMDUvaWNlZC1s/b25kb24tZm9nLWxh/dHRlLWNvbGQtZm9h/bS1yZWNpcGUtMTYt/NzY4eDExNTIuanBn">
@@ -105,7 +105,7 @@ export const IcedTeas = () => {
                             </a>
                             <h1 className="caption">Iced London Fog Tea Latte </h1>
                         </div>
-                </Row>
+                        </Row>
                 <div>
                   <header className='MiniSectionName'> Iced Chai Tea</header>
                 </div>
@@ -140,7 +140,7 @@ export const IcedTeas = () => {
                             </a>
                             <h1 className="caption"> Iced Peach Green Tea Lemonade  </h1>
                         </div>
-
+            </Row> <Row>
                         <div className="box">
                             <a href="Iced Matcha Tea Latte">
                                 <img className="HCImage" src="https://imgs.search.brave.com/4ivnSAhObIear8BLC3cMgDcaFXWH_6go4spg5tu6mP0/rs:fit:700:980:1/g:ce/aHR0cHM6Ly9naW1t/ZWRlbGljaW91cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTgvMDMvSWNlZC1N/YXRjaGEtTGF0dGUy/LmpwZw">
@@ -151,8 +151,7 @@ export const IcedTeas = () => {
                         </div>
 
 
-                </Row>
-                <Row>
+              
                 <div className="box">
                             <a href="https://www.starbucks.com/menu/product/459/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Zhg3nmCrphXS4wYlgMB_PBRVJtkgiMPArUgb0l5uKzE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/d29uZGVyd2FyZHJv/YmVzLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxNS8wNi9p/Y2VkLWdyZWVuLXRl/YS5qcGc">
@@ -161,6 +160,8 @@ export const IcedTeas = () => {
                             </a>
                             <h1 className="caption"> Iced Green Tea </h1>
                         </div>
+                          </Row>
+                <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/460/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/Fev4VzMkzZX-Casz57rnp3NSrsGnn2MW3h17gQKkJhA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnNo/Z2Nkbi5jb20vZTNj/NzYyMDgtNTE2MS00/OWI4LTk4NjgtODQw/ZTQ5Njc4NDI3Ly0v/Zm9ybWF0L2F1dG8v/LS9wcmV2aWV3LzMw/MDB4MzAwMC8tL3F1/YWxpdHkvbGlnaHRl/ci8">
@@ -169,6 +170,7 @@ export const IcedTeas = () => {
                             </a>
                             <h1 className="caption"> Iced Green Tea Lemonade </h1>
                         </div>
+                       
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2122376/iced">
                                 <img className="HCImage" src="https://imgs.search.brave.com/uv1Gbuwe1Wbd_4KRQXH6GcJAMw4yMZ05v476w8FoyFc/rs:fit:640:640:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzNjL2I5/L2UxLzNjYjllMTRk/ZTkzZTI4MWQ5NDUw/M2I4ODM2NWU4MGY5/LmpwZw">
@@ -176,7 +178,8 @@ export const IcedTeas = () => {
                                 </img>
                             </a>
                             <h1 className="caption"> Iced Matcha Lemonade </h1>
-                        </div>
+                        </div> 
+                        </Row> <Row>
                 </Row>
                 <div> 
                   <header className='MiniSectionName'> Iced Herbal Teas</header>

@@ -61,7 +61,8 @@ const OatmealandYogurt = () => {
                             </a>
                             <h1 className="caption"> Berry Trio Parfait </h1>
                         </div>
-
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2123149/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/tYZXMhc-F1uGGSv2I2csAE3thNWV1R6_Wn2HYKZCf3Q/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9mYXN0/Zm9vZG51dHJpdGlv/bi5vcmcvaXRlbS1w/aG90b3MvMTI0Mngx/MjQyLzkxODNfcy5q/cGc">

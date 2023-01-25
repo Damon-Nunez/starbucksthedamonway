@@ -60,6 +60,8 @@ const Other = () => {
                             </a>
                             <h1 className="caption">Pour Over  </h1>
                         </div>
+                        </Row>
+               <Row>
                         <div className="box">
                             <a href="https://www.starbucks.com/menu/product/2121746/single">
                                 <img className="HCImage" src="https://imgs.search.brave.com/0nvuijDSLBx0A88swAwsweuZpygoY1c3dFGiUFNge7w/rs:fit:680:680:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2Y2L2Yx/LzQ0L2Y2ZjE0NDY1/MmU2N2ZjOTc2NTdm/MmYyMzIwMjM3MWM4/LmpwZw">
