@@ -5,10 +5,12 @@
     font-size: 20px;
     height:60px;
     padding-top:15px;
-    padding-left:140px;
     display:flex;
     justify-content: center;
     
+}
+.FullScreen {
+    padding:0px;
 }
 .FreeCoffeeSection {
     background-color: rgb(212,232,227);

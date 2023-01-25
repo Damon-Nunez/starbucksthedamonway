@@ -1,21 +1,22 @@
 
 .SideMenu {
-    border: 5px solid;
+        position: sticky;
+        z-index: 1;
+       top:0px;
+   border: 5px solid;
     border-color:transparent;
     height:auto;
     width:min-content;
     font-size: 21px;
     margin-bottom:10px;
-    display:grid;
-    padding-left:20px;
-    position:static;
+    
 }
 .item {
     color:grey;
     padding: 5px;
     width:max-content;
     transition: 0.3s;
-    font-size: 20px;
+    font-size: 17px;
 }
 .item:hover{
     transform: scale(1.2);
@@ -103,5 +104,16 @@
         margin-top:50px;
         display:flex;
         justify-content: space-around;
+    }
+    .SideMenu {
+         border: 5px solid;
+    border-color:transparent;
+    height:auto;
+    width:min-content;
+    font-size: 21px;
+    margin-bottom:10px;
+    display:sticky;
+    top:0px;
+    padding-left:20px;
     }
 }

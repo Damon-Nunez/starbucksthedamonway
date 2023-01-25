@@ -20,7 +20,7 @@ const Rewards = () => {
     return (
         <div>
             <Navbar/>
-                <Col sm={12} md={12} lg={12}>
+                <Col sm={12} md={12} lg={12} className="FullScreen">
             <header className="RewardsHeader"> Starbucks Rewards</header>
             </Col>
             <Row className="RewardRow">
