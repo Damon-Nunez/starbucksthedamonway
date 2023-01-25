@@ -35,7 +35,7 @@ const GiftCard = () => {
             <Col sm={6} md={6} lg={6}>
               <div className="SecondSection">
             <p> Earns 2★Stars per $1 </p>
-            <button className="giftCardBtnOne"><Link to= "https://app.starbucks.com/account/cards"> Add or reload </Link></button>
+            <button className="giftCardBtnOne"><a href="https://app.starbucks.com/account/cards"> Add or reload </a></button>
             <button className="giftCardBtnTwo">Check Balance</button>
              <a className="LinkWordTerms" href="https://www.starbucks.com/terms/manage-gift-cards/"><h2> Card Terms & Conditions </h2></a>
               </div>

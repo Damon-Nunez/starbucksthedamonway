@@ -347,10 +347,28 @@ font-size:medium
     width: auto;
   }
   #ResponsiveEdit {
-    font-size:large;
+    font-size:medium;
   }
-  .responsive {
-    max-width: 100%;
-    height: auto;   
-    min-width: 50%;
+  .text {
+    display:flex;
+    justify-content: center;;
+  }
+
+  @media screen and (max-width: 800px) {
+   
+  .image div {
+    background-color:rgb(25,60,53) ;
+  }
+  .responsiveOne {
+    display:none;
+  }
+    .responsiveTwo {
+      display:none;
+      background-color: rgb(242,240,235);
+    }
+    .responsiveThree {
+      display:none;
+      background-color:rgb(243,241,237);
+    }
+
   }

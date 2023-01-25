@@ -20,7 +20,9 @@ const Rewards = () => {
     return (
         <div>
             <Navbar/>
+                <Col sm={12} md={12} lg={12}>
             <header className="RewardsHeader"> Starbucks Rewards</header>
+            </Col>
             <Row className="RewardRow">
                         <Col sm={12} md={12} lg={4} className="FreeCoffeeSection" >
                             <div className="LightBlueSection">

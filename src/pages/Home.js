@@ -43,7 +43,7 @@ const Home = () => {
                 </section>
                 <section class="chill left-right-section">
                     <div class="image">
-                        <img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72801.jpg" />
+                        <img className="responsiveOne" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72801.jpg" />
                     </div>
                     <div class="text" id="poster1">
                         <h2>100% of U.S. stores now donate food</h2>
@@ -54,9 +54,6 @@ const Home = () => {
                     </div>
                 </section>
                 <section class="chill left-right-section">
-                    <div class="image">
-                        <img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" />
-                    </div>
                     <div class="text">
                         <h1 id="ResponsiveEdit">DELIGHTFULLY CHILL</h1>
                         <h3>Refresh your day with the bright, tropical flavors of our Star Drink and Kiwi Starfruit Starbucks Refreshers® beverage.</h3>
@@ -64,6 +61,13 @@ const Home = () => {
                             Order iced beverage
                         </div>
                     </div>
+                    
+                    <div class="image">
+                        <div>
+                        <img className="responsiveTwo" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72037.jpg" />
+                    </div>
+                    </div>
+                    
                 </section>
                 <section>
                     <div class="top-bottom-section">
@@ -104,9 +108,6 @@ const Home = () => {
                         <h2>Back to school? You’ve got this!</h2>
                         <h3>Good luck to our partners (employees) going back to school through the Starbucks College Achievement Plan, with 100% tuition coverage at ASU Online.</h3>
                      
-                    </div>
-                    <div class="image">
-                        < img className="responsive" src="https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-72800.jpg" />
                     </div>
                 </section>
                 <section class="des">

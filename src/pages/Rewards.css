@@ -6,8 +6,9 @@
     height:60px;
     padding-top:15px;
     padding-left:140px;
-    display:sticky;
-    justify-content:space-between
+    display:flex;
+    justify-content: center;
+    
 }
 .FreeCoffeeSection {
     background-color: rgb(212,232,227);
@@ -99,7 +100,6 @@
      padding-left:50px;
     font-size:1.2rem!important;
     font-weight:700px;
-    margin: 0 10vw;
 }
 .LinkWords {
     font-size:1.2rem!important;
@@ -116,6 +116,8 @@
     font-weight:600!important;
     border-bottom:2px solid;
     border-color:lightgray;
+    padding-left:100px;
+
 }
 .ThirdSectionHeader p {
     display:flex;
@@ -123,6 +125,8 @@
     font-size:1.3rem!important;
     font-weight: 300!important;
     padding-top:25px;
+    padding-left:100px;
+    padding-bottom:50px;
     
 }
 .InfoCardTwo {
@@ -133,7 +137,6 @@
     padding-left:50px;
    font-size:1.2rem!important;
    font-weight:700px;
-   margin: 0 10vw;
 }
 .InfoCardTwo h1 {
     font-size:1.6rem!important;
@@ -249,7 +252,7 @@
     box-shadow: 0 0 0 2px rgb(0 0 0 / 40%);
     display: flex;
     justify-content: center;
-    padding: 18px 100px;
+    padding: 18px 70px;
     margin:auto;
     font-size: 20px;
     transition: border .2s linear .2s;
@@ -279,7 +282,6 @@
 }
 .QuestionSection p {
     font-size:large;
-    width:500px;
     height:300px;
     margin:auto;
     padding-top:30px;

@@ -44,7 +44,7 @@ const Menu = () => {
                </Col>
                <Col md = "9">
             <h1 className="MiniSectionName"> Hot Coffee</h1>
-                <Row>
+                <Row className="firstRow">
                     <div className="box">
                    <a href="https://www.starbucks.com/menu/product/406/hot"> <img className = "HCImage"src="https://imgs.search.brave.com/47HauWOrvMJQ6Pbclr5XATZn7CMzJ85rzSF-5O2LxXw/rs:fit:720:810:1/g:ce/aHR0cHM6Ly9zMy5z/Y29vcHdob29wLmNv/bS9hbmovc3cvM2U2/MmM1MGYtNWNlZC00/NDM1LWE1YjMtMzk3/M2NlYzQyOTI2Lmpw/Zw">
                     </img></a>
