@@ -57,6 +57,7 @@
     transition: 0.3s;
     padding: 6px 40px;
     margin-top:50px;
+    margin-left: 50px;
   }
   .ButtonPrev {
     display:flex;
