@@ -6,12 +6,6 @@ import { Link } from 'react-router-dom';
 import { Row,Col,Container } from "react-bootstrap";
 
 
-
-function toggleMenu() {
-	let menu = document.querySelector('.nav-menu');
-	menu.classList.toggle('active');
-  }
-
 function Navbar() {
 	return (
 		<div className='header'>
@@ -29,9 +23,6 @@ function Navbar() {
 						<li><Link to="/giftcard"> GiftCard</Link></li>
 					</ul>
 				</div>
-			
-				{/* */}
-				
 			</div>
 
 		</div>

@@ -90,19 +90,6 @@
 .findstore {
 	margin-right: 30px;
 }
-.hamburger {
-    display: none;
-}
-
-.bar {
-    display: block;
-    width: 25px;
-    height: 3px;
-    margin: 5px auto;
-    -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background-color: #101010;
-}
 .newButton {
 	font-size:1.3rem!important;
 	font-weight: 600!important;
@@ -111,11 +98,13 @@
 	padding:20px;
 	border-color:transparent;
 }
-@media screen and (max-width:590px ) {
+
+@media screen and (max-width:760px ) {
 	.header__logo {
 	  /* Apply some styles */
 	  display:none;
 	}
+
   }
 
 
