@@ -106,5 +106,13 @@
 	}
 
   }
+  @media(max-width:477px){
+	.header{
+		justify-content: end;
+	}
+	.menu__items > li {
+		padding: 5px;
+	}
+  }
 
 

@@ -120,10 +120,8 @@
 }
 @media screen and (max-width:550px){
     .row {
-        padding:45px;
     margin-bottom:35px;
     display:flex;
     justify-content: space-around;
-    width:500px;
     }
 }
