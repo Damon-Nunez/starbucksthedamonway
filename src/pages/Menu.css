@@ -123,5 +123,25 @@
     margin-bottom:35px;
     display:flex;
     justify-content: space-around;
+    padding:5px;
+    }
+    .box {
+        height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    transition: 0.5s;
+    }
+    .HCImage{
+        width:130px;
+        height: 130px;
+    }
+
+}
+@media(max-width:300px){
+    .row {
+        margin-bottom:35px;
+        display:flex;
+        justify-content: space-around;
+        padding:5px;
     }
 }
